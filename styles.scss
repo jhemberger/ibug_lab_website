@@ -54,7 +54,7 @@ body {
   font-weight: 500;
 }
 
-// Research
+// Research "blog" adjustments
 #quarto-margin-sidebar .quarto-listing-category {
   padding-top: 0;
   font-size: 0.8rem;
@@ -190,6 +190,45 @@ figcaption {
   font-size: 1em;
 }
 
-.sidebar nav[role="doc-toc"]>ul {
+.sidebar nav[role="doc-toc"] {
   font-size: 0.8rem;
 }
+
+strong {
+  font-weight: 700;
+}
+
+// Landing page adjustments
+// white font
+.white-text {
+  color: $flower-white;
+}
+
+div.quarto-about-jolla .about-sep {
+  width: 60%;
+  color: $flower-white;
+}
+
+hr {
+  margin: 1rem 0;
+  color: inherit;
+  border: 0;
+    border-top-width: 0px;
+    border-top-style: none;
+    border-top-color: currentcolor;
+  border-top: 1px solid;
+  opacity: .5;
+}
+
+div.quarto-about-jolla .about-link {
+  color: $flower-white;
+  text-decoration:none;
+  border:solid 1px
+}
+// body {
+//  background-image: url("https://jhemberger.github.io/images/photography/insects/2017_Insects-1.jpg");
+//  background-size: cover;
+//  background-repeat: no-repeat;
+//  /*background-position: center center;*/
+//  /*background-attachment: fixed;*/
+// }

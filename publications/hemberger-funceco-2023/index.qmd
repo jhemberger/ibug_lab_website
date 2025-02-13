@@ -49,7 +49,6 @@ journal = {Ecology Letters},
 issn = {1461-023X}, 
 doi = {10.1111/ele.14492}, 
 number = {8}, 
-volume = {27}, 
-keywords = {}
+volume = {27}
 }
 ```

@@ -33,6 +33,8 @@ website:
   page-footer:
     background: light # or `dark`
     left: Copyright 2025, Jeremy Hemberger
+    center: |
+      Background image: Large milkweed bug nymph aggregation (<i>Oncopeltus fasciatus</i>), 2017
     right: Built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 

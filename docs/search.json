@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "UMN iBUG Lab",
     "section": "",
-    "text": "Welcome to the iBUG lab in the University of Minnesota Department of Entomology. We’re a research group dedicated to understanding how insects are impacted by human changes to our environment. Our work focuses primarily on changes in land-use due to agriculture and shifts in climate and extreme weather in working landscapes. We use a variety of approaches in our work but specialize in using ecoinformatics and cross-scale experimental methods to examine insect responses from behaviors to communities. We work hard to find creative ways to generalize our findings and develop targeted mitigation and conservation strategies to protect insect biodiversity and the outsized roles these small critters play in terrestrial ecological systems."
+    "text": "Welcome to the iBUG LAB in the University of Minnesota Department of Entomology. We’re a research group dedicated to understanding how insects are impacted by human changes to our environment. Our work focuses primarily on changes in land-use due to agriculture and shifts in climate and extreme weather in working landscapes using a variety of research approaches, but we specialize in using ecoinformatics and cross-scale experimental methods to examine insect responses from behaviors to communities. We work hard to find creative ways to apply our findings to develop targeted mitigation and conservation strategies to support insect biodiversity and the outsized ecological roles these small critters play in our landscapes."
   },
   {
     "objectID": "about.html",
@@ -88,7 +88,7 @@
     "href": "publications/hemberger-ecoletters-2024/index.html#citation",
     "title": "Warming summer temperatures are rapidly restructuring North American bumble bee communities",
     "section": "Citation",
-    "text": "Citation\n@article{10.1111/ele.14492, \nyear = {2024}, \ntitle = {{Warming summer temperatures are rapidly restructuring North American bumble bee communities}}, \nauthor = {Hemberger, Jeremy and Williams, Neal M.}, \njournal = {Ecology Letters}, \nissn = {1461-023X}, \ndoi = {10.1111/ele.14492}, \nnumber = {8}, \nvolume = {27}, \nkeywords = {}\n}"
+    "text": "Citation\n@article{10.1111/ele.14492, \nyear = {2024}, \ntitle = {{Warming summer temperatures are rapidly restructuring North American bumble bee communities}}, \nauthor = {Hemberger, Jeremy and Williams, Neal M.}, \njournal = {Ecology Letters}, \nissn = {1461-023X}, \ndoi = {10.1111/ele.14492}, \nnumber = {8}, \nvolume = {27}\n}"
   },
   {
     "objectID": "publications/hemberger-funceco-2023/index.html#important-figures",
@@ -102,7 +102,7 @@
     "href": "publications/hemberger-funceco-2023/index.html#citation",
     "title": "Warming summer temperatures are rapidly restructuring North American bumble bee communities",
     "section": "Citation",
-    "text": "Citation\n@article{10.1111/ele.14492, \nyear = {2024}, \ntitle = {{Warming summer temperatures are rapidly restructuring North American bumble bee communities}}, \nauthor = {Hemberger, Jeremy and Williams, Neal M.}, \njournal = {Ecology Letters}, \nissn = {1461-023X}, \ndoi = {10.1111/ele.14492}, \nnumber = {8}, \nvolume = {27}, \nkeywords = {}\n}"
+    "text": "Citation\n@article{10.1111/ele.14492, \nyear = {2024}, \ntitle = {{Warming summer temperatures are rapidly restructuring North American bumble bee communities}}, \nauthor = {Hemberger, Jeremy and Williams, Neal M.}, \njournal = {Ecology Letters}, \nissn = {1461-023X}, \ndoi = {10.1111/ele.14492}, \nnumber = {8}, \nvolume = {27}\n}"
   },
   {
     "objectID": "publications/hemberger-ecoletters-2021/index.html",

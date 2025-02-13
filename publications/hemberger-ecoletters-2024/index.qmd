@@ -40,7 +40,7 @@ A rapidly warming climate is driving changes in biodiversity worldwide, and its 
 
 ## Important figures
 
-![Figure 1: Conceptual figure of data cleaning (a), species temperature index calculation (b), community assignment (c), community temperature index calculation (d), temperature anomaly calculations (e) and modelling procedures used in our analyses (f).](fig1.jpg)
+![<strong>Figure 1:</strong> Conceptual figure of data cleaning (a), species temperature index calculation (b), community assignment (c), community temperature index calculation (d), temperature anomaly calculations (e) and modelling procedures used in our analyses (f).](fig1.jpg)
 
 ## Citation
 
@@ -53,7 +53,6 @@ journal = {Ecology Letters},
 issn = {1461-023X}, 
 doi = {10.1111/ele.14492}, 
 number = {8}, 
-volume = {27}, 
-keywords = {}
+volume = {27}
 }
 ```

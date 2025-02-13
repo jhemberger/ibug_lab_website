@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ibug_lab_website",
+    "title": "UMN iBUG Lab",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to the iBUG lab in the University of Minnesota Department of Entomology. We’re a research group dedicated to understanding how insects are impacted by human changes to our environment. Our work focuses primarily on changes in land-use due to agriculture and shifts in climate and extreme weather in working landscapes. We use a variety of approaches in our work but specialize in using ecoinformatics and cross-scale experimental methods to examine insect responses from behaviors to communities. We work hard to find creative ways to generalize our findings and develop targeted mitigation and conservation strategies to protect insect biodiversity and the outsized roles these small critters play in terrestrial ecological systems."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,124 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec faucibus tempor dolor, a varius leo. Nunc ac dignissim urna. Morbi quis tristique tellus. Proin pulvinar erat eros, sed blandit enim posuere vitae. Suspendisse faucibus eget dui nec gravida. Donec in tincidunt magna. Aenean aliquam nunc lorem, posuere mattis risus faucibus nec. Vestibulum quis aliquet arcu, et faucibus risus. Donec posuere dignissim posuere. Curabitur vel felis id justo posuere interdum. Suspendisse eget faucibus dolor. Aenean ullamcorper hendrerit magna et lacinia."
+  },
+  {
+    "objectID": "people.html#faculty",
+    "href": "people.html#faculty",
+    "title": "People",
+    "section": "Faculty",
+    "text": "Faculty\nNam tempus commodo est eget dignissim. Integer eget ante egestas, condimentum tortor ut, mattis velit. Nam consectetur ante vitae odio mollis congue. Maecenas vel metus vestibulum, efficitur mauris ac, sollicitudin dolor. Morbi iaculis justo a est consequat facilisis. Mauris viverra vehicula ex at sodales. Fusce sit amet elit vel nisi interdum gravida vitae ut ipsum. Cras ut elementum augue, ut lobortis nulla. Nullam efficitur congue tincidunt. Aliquam erat volutpat. Proin sodales sed turpis nec accumsan. Integer eu purus vulputate, tempus dolor dignissim, pellentesque tellus. Suspendisse in elit leo. Sed ornare volutpat iaculis."
+  },
+  {
+    "objectID": "people.html#students",
+    "href": "people.html#students",
+    "title": "People",
+    "section": "Students",
+    "text": "Students\nCurabitur in rhoncus erat, at consequat magna. Nunc a urna ut nunc dapibus ullamcorper in quis purus. Morbi varius non urna in facilisis. Vestibulum lobortis pharetra nibh, sit amet feugiat augue congue eget. Donec vel nunc in mauris sodales commodo id gravida orci. Cras condimentum, tellus at tempor tristique, ex orci dignissim quam, sed convallis mauris ipsum eget est. Praesent ipsum mi, scelerisque at rutrum eget, interdum vitae eros. Proin mi erat, efficitur eget consequat fermentum, sagittis et nulla.\nProin faucibus nec sem auctor bibendum. Mauris orci purus, mattis quis scelerisque quis, sodales imperdiet mauris. Cras vitae fermentum lacus. Nunc metus velit, porttitor sed ultrices ac, ultrices ut neque. Mauris pulvinar dolor sit amet justo placerat, vitae congue arcu sagittis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse faucibus nibh nibh, vel interdum risus sollicitudin vitae. Integer pellentesque eros augue, nec elementum dui ultricies quis. Sed mollis mauris sit amet nunc fringilla eleifend. Maecenas elit libero, porta at congue a, sodales quis nibh. Suspendisse sit amet velit ante. Suspendisse ut interdum diam. Aenean interdum placerat lacus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\nDonec neque lectus, lobortis nec elit quis, posuere tincidunt magna. Etiam sed urna eu felis laoreet posuere id ut leo. Nullam vel finibus orci, non faucibus sapien. Aenean vitae tortor in nibh finibus commodo. In luctus nibh augue, sed dictum dui bibendum at. Mauris a purus vulputate, interdum ligula vitae, condimentum augue. Donec tincidunt enim diam, et lacinia felis fermentum a. Suspendisse hendrerit tincidunt lectus, fermentum lacinia magna porttitor et. Curabitur orci lorem, interdum sit amet urna in, venenatis pulvinar massa. Duis erat tellus, consequat quis felis sit amet, imperdiet mattis purus. Praesent eget mollis massa. Quisque gravida elementum ipsum non suscipit."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Jeremy Hemberger and Neal Williams, “Warming summer temperatures are rapidly restructuring North American bumble bee communities” Ecology Letters 2024, doi: 10.1111/ele.14492\n            \n\n            \n            \n                \n                    \n                            bumble bee\n                        \n                    \n                    \n                            climate change\n                        \n                    \n                    \n                            community composition\n                        \n                    \n                    \n                            community temperature index\n                        \n                    \n                    \n                            ecoinformatics\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Preprint\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Code\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Jeremy Hemberger and Neal Williams, “Warming summer temperatures are rapidly restructuring North American bumble bee communities” Ecology Letters 2024, doi: 10.1111/ele.14492\n            \n\n            \n            \n                \n                    \n                            bumble bee\n                        \n                    \n                    \n                            climate change\n                        \n                    \n                    \n                            community composition\n                        \n                    \n                    \n                            community temperature index\n                        \n                    \n                    \n                            ecoinformatics\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Preprint\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Code\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Jeremy Hemberger, Michael Crossley, Claudio Gratton, “Historical decrease in agricultural landscape diversity is associated with shifts in bumble bee species occurrence” Ecology Letters 2021, doi: 10.1111/ele.14492\n            \n\n            \n            \n                \n                    \n                            agricultural intensification\n                        \n                    \n                    \n                            bombus\n                        \n                    \n                    \n                            crop diversity\n                        \n                    \n                    \n                            ecoinformatics\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Code\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/hemberger-ecoletters-2023/index.html#important-figures",
+    "href": "publications/hemberger-ecoletters-2023/index.html#important-figures",
+    "title": "Warming summer temperatures are rapidly restructuring North American bumble bee communities",
+    "section": "Important figures",
+    "text": "Important figures"
+  },
+  {
+    "objectID": "publications/hemberger-ecoletters-2023/index.html#citation",
+    "href": "publications/hemberger-ecoletters-2023/index.html#citation",
+    "title": "Warming summer temperatures are rapidly restructuring North American bumble bee communities",
+    "section": "Citation",
+    "text": "Citation\n@article{10.1111/ele.14492, \nyear = {2024}, \ntitle = {{Warming summer temperatures are rapidly restructuring North American bumble bee communities}}, \nauthor = {Hemberger, Jeremy and Williams, Neal M.}, \njournal = {Ecology Letters}, \nissn = {1461-023X}, \ndoi = {10.1111/ele.14492}, \nnumber = {8}, \nvolume = {27}, \nkeywords = {}\n}"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Publications",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "publications/hemberger-ecoletters-2021/index.html#important-figures",
+    "href": "publications/hemberger-ecoletters-2021/index.html#important-figures",
+    "title": "Historical decrease in agricultural landscape diversity is associated with shifts in bumble bee species occurrence",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 1: Patterns of agricultural intensification from 1880 to 2017 at roughly equal intervals across Illinois, Indiana, Iowa, Michigan, Minnesota and Wisconsin in two metrics: (a and b) proportion of county in cropland and (c and d) number of crops grown per county. Inset graphs (b and d) depict the general trend of these variables for each state in the study area.\n\n\n\n\n\nFigure 2: Illustration of the temporal trend in predicted bumble bee occurrence across the six focal species (a–f). We use the species‐specific models which predict the probability of occurrence given cropland proportion and number of crops (with all interactions) to plot the expected county‐level probability for each census year of the model. With this information, for each species, we estimated a county‐level time series (GAM‐fits, black lines) as well as an overall trend in the predicted probability of occurrence (red lines) for the species. For each county and species, we use the average slope (i.e. temporal change) to create a spatial representation of the trend in predicted species occurrence given local agricultural conditions, where yellow, gold, and black indicate increasing, stable, and decreasing probability of occurrence over time respectively. Together, these panels depict the long‐term occurrence trend of each species as predicted by the agricultural intensification metrics (cropland proportion and number of crops), smoothing over short‐term fluctuations in predicted occurrence for in any single census year."
+  },
+  {
+    "objectID": "publications/hemberger-ecoletters-2021/index.html#citation",
+    "href": "publications/hemberger-ecoletters-2021/index.html#citation",
+    "title": "Historical decrease in agricultural landscape diversity is associated with shifts in bumble bee species occurrence",
+    "section": "Citation",
+    "text": "Citation\n@article{Hemberger.2021, \nyear = {2021}, \ntitle = {{Historical decrease in agricultural landscape diversity is associated with shifts in bumble bee species occurrence}}, \nauthor = {Hemberger, Jeremy and Crossley, Michael S. and Gratton, Claudio}, \njournal = {Ecology Letters}, \nissn = {1461-023X}, \ndoi = {10.1111/ele.13786}, \npmid = {34143928}, \npages = {1800--1813}, \nnumber = {9}, \nvolume = {24}, \nkeywords = {}\n}"
+  },
+  {
+    "objectID": "publications/hemberger-ecoletters-2024/index.html#important-figures",
+    "href": "publications/hemberger-ecoletters-2024/index.html#important-figures",
+    "title": "Warming summer temperatures are rapidly restructuring North American bumble bee communities",
+    "section": "Important figures",
+    "text": "Important figures\n\n\n\nFigure 1: Conceptual figure of data cleaning (a), species temperature index calculation (b), community assignment (c), community temperature index calculation (d), temperature anomaly calculations (e) and modelling procedures used in our analyses (f)."
+  },
+  {
+    "objectID": "publications/hemberger-ecoletters-2024/index.html#citation",
+    "href": "publications/hemberger-ecoletters-2024/index.html#citation",
+    "title": "Warming summer temperatures are rapidly restructuring North American bumble bee communities",
+    "section": "Citation",
+    "text": "Citation\n@article{10.1111/ele.14492, \nyear = {2024}, \ntitle = {{Warming summer temperatures are rapidly restructuring North American bumble bee communities}}, \nauthor = {Hemberger, Jeremy and Williams, Neal M.}, \njournal = {Ecology Letters}, \nissn = {1461-023X}, \ndoi = {10.1111/ele.14492}, \nnumber = {8}, \nvolume = {27}, \nkeywords = {}\n}"
+  },
+  {
+    "objectID": "publications/hemberger-funceco-2023/index.html#important-figures",
+    "href": "publications/hemberger-funceco-2023/index.html#important-figures",
+    "title": "Warming summer temperatures are rapidly restructuring North American bumble bee communities",
+    "section": "Important figures",
+    "text": "Important figures"
+  },
+  {
+    "objectID": "publications/hemberger-funceco-2023/index.html#citation",
+    "href": "publications/hemberger-funceco-2023/index.html#citation",
+    "title": "Warming summer temperatures are rapidly restructuring North American bumble bee communities",
+    "section": "Citation",
+    "text": "Citation\n@article{10.1111/ele.14492, \nyear = {2024}, \ntitle = {{Warming summer temperatures are rapidly restructuring North American bumble bee communities}}, \nauthor = {Hemberger, Jeremy and Williams, Neal M.}, \njournal = {Ecology Letters}, \nissn = {1461-023X}, \ndoi = {10.1111/ele.14492}, \nnumber = {8}, \nvolume = {27}, \nkeywords = {}\n}"
+  },
+  {
+    "objectID": "publications/hemberger-ecoletters-2021/index.html",
+    "href": "publications/hemberger-ecoletters-2021/index.html",
+    "title": "Historical decrease in agricultural landscape diversity is associated with shifts in bumble bee species occurrence",
+    "section": "",
+    "text": "Agricultural intensification is a key suspect among putative drivers of recent insect declines, but an explicit link between historical change in agricultural land cover and insect occurrence is lacking. Determining whether agriculture impacts beneficial insects (e.g. pollinators), is crucial to enhancing agricultural sustainability. Here, we combine large spatiotemporal sets of historical bumble bee and agricultural records to show that increasing cropland extent and decreasing crop richness were associated with declines in over 50% of bumble bee species in the agriculturally intensive Midwest, USA. Critically, we found that high crop diversity was associated with a higher occurrence of many species pre‐1950 even in agriculturally dominated areas, but that current agricultural landscapes are devoid of high crop diversity. Our findings suggest that insect conservation and agricultural production may be compatible, with increasing on‐farm and landscape‐level crop diversity predicted to have positive effects on bumble bees. Agricultural intensification is a key suspect among putative drivers of recent insect declines, but an explicit link between historical change in agricultural land cover and insect occurrence is lacking. Here, we find that historical patterns of agricultural intensification are strongly related to patterns in bumble bee species occurrence, specifically a loss in crop species richness and increased cropland proportion."
+  },
+  {
+    "objectID": "publications/hemberger-ecoletters-2021/index.html#abstract",
+    "href": "publications/hemberger-ecoletters-2021/index.html#abstract",
+    "title": "Historical decrease in agricultural landscape diversity is associated with shifts in bumble bee species occurrence",
+    "section": "",
+    "text": "Agricultural intensification is a key suspect among putative drivers of recent insect declines, but an explicit link between historical change in agricultural land cover and insect occurrence is lacking. Determining whether agriculture impacts beneficial insects (e.g. pollinators), is crucial to enhancing agricultural sustainability. Here, we combine large spatiotemporal sets of historical bumble bee and agricultural records to show that increasing cropland extent and decreasing crop richness were associated with declines in over 50% of bumble bee species in the agriculturally intensive Midwest, USA. Critically, we found that high crop diversity was associated with a higher occurrence of many species pre‐1950 even in agriculturally dominated areas, but that current agricultural landscapes are devoid of high crop diversity. Our findings suggest that insect conservation and agricultural production may be compatible, with increasing on‐farm and landscape‐level crop diversity predicted to have positive effects on bumble bees. Agricultural intensification is a key suspect among putative drivers of recent insect declines, but an explicit link between historical change in agricultural land cover and insect occurrence is lacking. Here, we find that historical patterns of agricultural intensification are strongly related to patterns in bumble bee species occurrence, specifically a loss in crop species richness and increased cropland proportion."
+  },
+  {
+    "objectID": "publications/hemberger-ecoletters-2024/index.html",
+    "href": "publications/hemberger-ecoletters-2024/index.html",
+    "title": "Warming summer temperatures are rapidly restructuring North American bumble bee communities",
+    "section": "",
+    "text": "A rapidly warming climate is driving changes in biodiversity worldwide, and its impact on insect communities is critical given their outsized role in ecosystem function and services. We use a long‐term dataset of North American bumble bee species occurrences to determine whether the community temperature index (CTI), a measure of the balance of warm‐ and cool‐adapted species in a community, has increased given warming temperatures. CTI has increased by an average of 0.99°C in strong association with warming maximum summer temperatures over the last 30 years with the areas exhibiting the largest increases including mid‐ to high latitudes as well as low and high elevations—areas relatively shielded from other intensive global changes. CTI shifts have been driven by the decline of cold‐adapted species and increases in warm‐adapted species within bumble bee communities. Our results show the pervasive impacts and ecological implications warming temperatures pose to insects. An increase in maximum summer temperatures is strongly associated with shifting bumble bee community composition, with communities becoming increasingly dominated by warm‐adapted species, while cool‐adapted bumble bee species are declining across North America. However, north of the 50th parallel, both warm and cool‐adapted species are failing to keep pace with the rate of warming."
+  },
+  {
+    "objectID": "publications/hemberger-ecoletters-2024/index.html#abstract",
+    "href": "publications/hemberger-ecoletters-2024/index.html#abstract",
+    "title": "Warming summer temperatures are rapidly restructuring North American bumble bee communities",
+    "section": "",
+    "text": "A rapidly warming climate is driving changes in biodiversity worldwide, and its impact on insect communities is critical given their outsized role in ecosystem function and services. We use a long‐term dataset of North American bumble bee species occurrences to determine whether the community temperature index (CTI), a measure of the balance of warm‐ and cool‐adapted species in a community, has increased given warming temperatures. CTI has increased by an average of 0.99°C in strong association with warming maximum summer temperatures over the last 30 years with the areas exhibiting the largest increases including mid‐ to high latitudes as well as low and high elevations—areas relatively shielded from other intensive global changes. CTI shifts have been driven by the decline of cold‐adapted species and increases in warm‐adapted species within bumble bee communities. Our results show the pervasive impacts and ecological implications warming temperatures pose to insects. An increase in maximum summer temperatures is strongly associated with shifting bumble bee community composition, with communities becoming increasingly dominated by warm‐adapted species, while cool‐adapted bumble bee species are declining across North America. However, north of the 50th parallel, both warm and cool‐adapted species are failing to keep pace with the rate of warming."
   }
 ]

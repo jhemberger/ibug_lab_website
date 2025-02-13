@@ -3,18 +3,48 @@ project:
   output-dir: docs
 
 website:
-  title: "ibug_lab_website"
+  title: "UMN iBUG Lab"
+  favicon: media/web-favicon.png
   navbar:
+    logo: media/umn-logo-hex@3x.png
+    title: false
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - people.qmd
+      - research.qmd
+      - publications.qmd
+      - opportunities.qmd
+    right:
+      - href: file/path/to/myCV.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
+        text: Lab Manual
+        target: _blank # opens link (or page) in a new browser tab
+      - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
+        href: https://bsky.app/profile/jhemberger.bsky.social
+        target: _blank
+      - icon: github # add icons as navbar buttons
+        href: https://github.com/jhemberger
+        target: _blank
+      - text: "{{< iconify fa6-brands orcid size=1.1em title='Bluesky' >}}"
+        href: https://orcid.org/0000-0003-3648-4724
+        target: _blank
+      - icon: envelope
+        href: mailto:jhemberg@umn.edu
+  page-footer:
+    background: light # or `dark`
+    left: Copyright 2025, Jeremy Hemberger
+    right: Built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - journal
+      - styles.scss
+    # css: styles.scss
     toc: true
+    mainfont: Reddit Mono
+    page-layout: full
 
 editor: visual
 

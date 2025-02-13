@@ -1,0 +1,59 @@
+---
+title: "Warming summer temperatures are rapidly restructuring North American bumble bee communities"
+date: 2024-08-13
+author:
+  - name: Jeremy Hemberger
+    url: https://jhemberger.github.io
+    orcid: 0000-0003-3648-4724
+    affiliation: University of California Davis
+  - name: Neal Williams
+    url: https://williamslab.ucdavis.edu/
+    orcid: 0000-0003-3053-8445
+    affiliation: University of California Davis
+categories:
+ - bumble bee
+ - climate change
+ - community composition 
+ - community temperature index
+ - ecoinformatics
+pub-info:
+  reference: >-
+    Jeremy Hemberger and Neal Williams, “Warming summer temperatures are rapidly restructuring North American bumble bee communities” <em>Ecology Letters</em> 2024, doi: <a href="https://onlinelibrary.wiley.com/doi/10.1111/ele.14492"><code>10.1111/ele.14492</code></a>
+  links:
+    - name: Preprint
+      url: https://doi.org/10.32942/X2PC8N
+      icon: fa-solid fa-file-pdf
+      # local: true
+    - name: Final version
+      url: ecoletts-2024.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Code
+      url: https://doi.org/10.6084/m9.figshare.24043338.v2
+      icon: fa-solid fa-code
+doi: 10.1111/ele.14492
+---
+
+## Abstract
+
+A rapidly warming climate is driving changes in biodiversity worldwide, and its impact on insect communities is critical given their outsized role in ecosystem function and services. We use a long‐term dataset of North American bumble bee species occurrences to determine whether the community temperature index (CTI), a measure of the balance of warm‐ and cool‐adapted species in a community, has increased given warming temperatures. CTI has increased by an average of 0.99°C in strong association with warming maximum summer temperatures over the last 30 years with the areas exhibiting the largest increases including mid‐ to high latitudes as well as low and high elevations—areas relatively shielded from other intensive global changes. CTI shifts have been driven by the decline of cold‐adapted species and increases in warm‐adapted species within bumble bee communities. Our results show the pervasive impacts and ecological implications warming temperatures pose to insects. An increase in maximum summer temperatures is strongly associated with shifting bumble bee community composition, with communities becoming increasingly dominated by warm‐adapted species, while cool‐adapted bumble bee species are declining across North America. However, north of the 50th parallel, both warm and cool‐adapted species are failing to keep pace with the rate of warming.
+
+## Important figures
+
+![Figure 1: Conceptual figure of data cleaning (a), species temperature index calculation (b), community assignment (c), community temperature index calculation (d), temperature anomaly calculations (e) and modelling procedures used in our analyses (f).](fig1.jpg)
+
+## Citation
+
+``` bibtex
+@article{10.1111/ele.14492, 
+year = {2024}, 
+title = {{Warming summer temperatures are rapidly restructuring North American bumble bee communities}}, 
+author = {Hemberger, Jeremy and Williams, Neal M.}, 
+journal = {Ecology Letters}, 
+issn = {1461-023X}, 
+doi = {10.1111/ele.14492}, 
+number = {8}, 
+volume = {27}, 
+keywords = {}
+}
+```

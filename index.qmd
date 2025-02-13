@@ -1,11 +1,22 @@
 ---
-title: "ibug_lab_website"
+# title:
+image: media/umn-lab-logo1@3x.png
+
+toc: false
+about: 
+  template: jolla
+  image-shape: rectangle
+  image-width: 45em
+  links:
+    - icon: bluesky
+      text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}} Bluesky"
+      href: https://bsky.app/profile/jhemberger.bsky.social
+    - icon: github
+      text: GitHub
+      href: https://github.com/jhemberger
+    - icon: envelope
+      text: Email
+      href: mailto:jhemberg@umn.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Welcome to the iBUG lab in the [University of Minnesota Department of Entomology](https://entomology.umn.edu/). We're a research group dedicated to understanding how insects are impacted by human changes to our environment. Our work focuses primarily on changes in land-use due to agriculture and shifts in climate and extreme weather in working landscapes. We use a variety of approaches in our work but specialize in using ecoinformatics and cross-scale experimental methods to examine insect responses from behaviors to communities. We work hard to find creative ways to generalize our findings and develop targeted mitigation and conservation strategies to protect insect biodiversity and the outsized roles these small critters play in terrestrial ecological systems.

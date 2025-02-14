@@ -1,54 +1,61 @@
 ---
-title: "Warming summer temperatures are rapidly restructuring North American bumble bee communities"
-date: 2024-08-13
+title: "Experimental heatwaves disrupt bumblebee foraging through direct heat effects and reduced nectar production"
+date: 2022-11-28
 author:
   - name: Jeremy Hemberger
     url: https://jhemberger.github.io
     orcid: 0000-0003-3648-4724
+    affiliation: University of California Davis
+  - name: Nick M. Rosenberger
+    url: https://www.nature.uni-freiburg.de/team-en/Nick%20Rosenberger%20
+    orcid: 0000-0003-1980-8766
     affiliation: University of California Davis
   - name: Neal Williams
     url: https://williamslab.ucdavis.edu/
     orcid: 0000-0003-3053-8445
     affiliation: University of California Davis
 categories:
- - bumble bee
+ - bumblebee
  - climate change
- - community composition 
- - community temperature index
- - ecoinformatics
+ - extreme heat
+ - foraging
+ - global change
+ - heat wave
+ - plant–pollinator interaction
 pub-info:
   reference: >-
-    Jeremy Hemberger and Neal Williams, “Warming summer temperatures are rapidly restructuring North American bumble bee communities” <em>Ecology Letters</em> 2024, doi: <a href="https://onlinelibrary.wiley.com/doi/10.1111/ele.14492"><code>10.1111/ele.14492</code></a>
+    Jeremy Hemberger, Nick Rosenberger, Neal Williams, “Experimental heatwaves disrupt bumblebee foraging through direct heat effects and reduced nectar production” <em>Functional Ecology</em> 2023, doi: <a href="https://doi.org/10.1111/1365-2435.14241"><code>10.1111/1365-2435.14241</code></a>
   links:
-    - name: Preprint
-      url: https://doi.org/10.32942/X2PC8N
-      icon: fa-solid fa-file-pdf
-      # local: true
     - name: Final version
-      url: ecoletts-2024.pdf
+      url: funceco-2023.pdf
       icon: fa-solid fa-file-pdf
       local: true
     - name: Code
-      url: https://doi.org/10.6084/m9.figshare.24043338.v2
+      url: https://doi.org/10.6084/m9.figshare.20292561.v2
       icon: fa-solid fa-code
-doi: 10.1111/ele.14492
+doi: 10.1111/1365-2435.14241
 ---
 
 ## Abstract
 
+Heatwaves are an increasingly common extreme weather event across the globe and are projected to surge in frequency and severity in the coming decades. Plant‐pollinator mutualisms are vulnerable due to interacting effects of extreme heat on insect pollinator foraging behaviour and their forage plants. We designed an experiment to parse the impact of extreme heat on bumblebee foraging mediated directly through air temperature and indirectly through changes in plant rewards. Temperatures simulating a moderate heatwave negatively impacted foraging bumblebees reducing the proportion of successful foraging bouts, foraging bout duration and plant and flower visitation and indirect stress through reduced nectar production that limited foraging bout duration. Our experimental results provide a mechanistic link between climate, plants and pollinators and suggest in situ conditions from heatwaves could have profound negative consequences for bumblebee colony persistence and maintenance of pollination services. Read the free Plain Language Summary for this article on the Journal blog. Read the free Plain Language Summary for this article on the Journal blog.
+
 ## Important figures
+
+![<strong>Figure 1:</strong> Heat wave impacts on pollination services can be affected directly through impacts on foraging pollinators, or indirectly through impacts on the plant (from the perspective of pollinators). ](concept-fig.png)
 
 ## Citation
 
 ``` bibtex
-@article{10.1111/ele.14492, 
-year = {2024}, 
-title = {{Warming summer temperatures are rapidly restructuring North American bumble bee communities}}, 
-author = {Hemberger, Jeremy and Williams, Neal M.}, 
-journal = {Ecology Letters}, 
-issn = {1461-023X}, 
-doi = {10.1111/ele.14492}, 
-number = {8}, 
-volume = {27}
+@article{10.1111/1365-2435.14241, 
+year = {2023}, 
+title = {{Experimental heatwaves disrupt bumblebee foraging through direct heat effects and reduced nectar production}}, 
+author = {Hemberger, Jeremy A. and Rosenberger, Nick M. and Williams, Neal M.}, 
+journal = {Functional Ecology}, 
+issn = {0269-8463}, 
+doi = {10.1111/1365-2435.14241}, 
+pages = {591--601}, 
+number = {3}, 
+volume = {37}
 }
 ```

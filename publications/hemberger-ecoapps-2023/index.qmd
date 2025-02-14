@@ -1,0 +1,62 @@
+---
+title: "Landscape‐scale floral resource discontinuity decreases bumble bee occurrence and alters community composition"
+date: 2022-11-28
+author:
+  - name: Jeremy Hemberger
+    url: https://jhemberger.github.io
+    orcid: 0000-0003-3648-4724
+    affiliation: University of Wisconsin-Madison
+  - name: Olivia Bernauer
+    url: https://www.uwec.edu/profiles/bernauom
+    orcid: 0000-0002-4814-3188
+    affiliation: University of Wisconsin-Madison
+  - name: Hannah Gaines-Day
+    url: https://gratton.entomology.wisc.edu/directory/hannah-gaines-day/
+    orcid: 0000-0002-9798-0601
+    affiliation: University of Wisconsin-Madison
+  - name: Claudio Gratton
+    url: https://gratton.entomology.wisc.edu/
+    orcid: 0000-0001-6262-9670
+    affiliation: University of Wisconsin-Madison
+categories:
+ - bumble bee
+ - floral resources
+ - resource continuity
+ - resource dynamics
+ - wild bee conservation
+pub-info:
+  reference: >-
+    Jeremy Hemberger, Olivia Bernauer, Hannah Gaines-Day, Claudio Gratton, “Landscape‐scale floral resource discontinuity decreases bumble bee occurrence and alters community composition” <em>Ecological Applications</em> 2023, doi: <a href="https://doi.org/10.1002/eap.2907"><code>10.1002/eap.2907</code></a>
+  links:
+    - name: Final version
+      url: ecoapps-2023.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Code
+      url: https://doi.org/10.6084/m9.figshare.21507906.v1
+      icon: fa-solid fa-code
+doi: 10.1002/eap.2907
+---
+
+## Abstract
+
+Agricultural practices and intensification over the past two centuries have dramatically altered the abundance and temporal continuity of floral resources that support pollinating insects such as bumble bees. Long‐term trends among bumble bees within agricultural regions suggest that intensive agricultural conditions have created inhospitable conditions for some species, while other species have maintained their relative abundances despite landscape‐level changes in flower availability. Bumble bee responses to spatiotemporal resource heterogeneity have been explored at the colony and behavioral level, but we have yet to understand whether these conditions drive community structure and ultimately explain the diverging patterns in long‐term species trends. To explore the relationship between landscape‐level floral resource continuity and the likelihood of bumble bee occurrence, we mapped the relative spatial and temporal availability of floral resources within an intensive agricultural region in the US Upper Midwest and related this resource availability with bumble bee species relative abundance. Across the bee community, we found that relative bumble bee occurrence increases in landscapes containing more abundant and more temporally continuous floral resources. Declining species, such as Bombus terricola, exhibited the strongest, positive responses to resource abundance and continuity whereas common, stable species, such as B. impatiens, showed no statistical relationship to either. Together with existing experimental evidence, this work suggests that efforts to increase spatiotemporal flower availability, along with overall flower abundance at landscape scales may have positive effects on bumble bee communities in the US Upper Midwest. This article is protected by copyright. All rights reserved.
+
+## Important figures
+
+![<strong>Figure 1:</strong> Conceptual representation of landscape‐scale floral resource availability in terms of total abundance and temporal continuity. Four scenarios are depicted, describing temporally discontinuous resources at low (A) and high (B) abundance, and temporally continuous resources at low (C) and high (D) abundance. Given diverging long‐term trends in bumble bee occurrence, we hypothesized that species with declining populations (e.g., Bombus terricola, E) would be more sensitive to both resource abundance and temporal continuity, whereas stable species (e.g., Bombus impatiens, F) would respond mostly to resource abundance given their continued dominance in landscapes dominated by agriculture that exhibit low resource continuity.](fig1.jpg)
+
+## Citation
+
+``` bibtex
+@article{10.1002/eap.2907, 
+year = {2023}, 
+title = {{Landscape‐scale floral resource discontinuity decreases bumble bee occurrence and alters community composition}}, 
+author = {Hemberger, Jeremy and Bernauer, Olivia M. and Gaines‐Day, Hannah R. and Gratton, Claudio}, 
+journal = {Ecological Applications}, 
+issn = {1051-0761}, 
+doi = {10.1002/eap.2907}, 
+pmid = {37602909}, 
+pages = {e2907}
+}
+```

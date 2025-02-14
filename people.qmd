@@ -2,9 +2,7 @@
 title: "People"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec faucibus tempor dolor, a varius leo. Nunc ac dignissim urna. Morbi quis tristique tellus. Proin pulvinar erat eros, sed blandit enim posuere vitae. Suspendisse faucibus eget dui nec gravida. Donec in tincidunt magna. Aenean aliquam nunc lorem, posuere mattis risus faucibus nec. Vestibulum quis aliquet arcu, et faucibus risus. Donec posuere dignissim posuere. Curabitur vel felis id justo posuere interdum. Suspendisse eget faucibus dolor. Aenean ullamcorper hendrerit magna et lacinia.
-
-## Faculty
+## Principal investigator
 Nam tempus commodo est eget dignissim. Integer eget ante egestas, condimentum tortor ut, mattis velit. Nam consectetur ante vitae odio mollis congue. Maecenas vel metus vestibulum, efficitur mauris ac, sollicitudin dolor. Morbi iaculis justo a est consequat facilisis. Mauris viverra vehicula ex at sodales. Fusce sit amet elit vel nisi interdum gravida vitae ut ipsum. Cras ut elementum augue, ut lobortis nulla. Nullam efficitur congue tincidunt. Aliquam erat volutpat. Proin sodales sed turpis nec accumsan. Integer eu purus vulputate, tempus dolor dignissim, pellentesque tellus. Suspendisse in elit leo. Sed ornare volutpat iaculis.
 
 ## Students

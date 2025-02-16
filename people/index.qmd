@@ -1,0 +1,64 @@
+---
+title: "Meet the Group"
+listing:
+  - id: pi
+    include: 
+      people_group: "pi"
+    exclude:
+      external: true
+    template: ../html/people-box.ejs
+    type: grid
+    fields: [title, subtitle, image, education]
+ 
+  - id: postdoc
+    include: 
+      people_group: "postdoc"
+    exclude:
+      external: true
+    template: ../html/people-box.ejs
+    sort: last    
+    type: grid
+    fields: [title, subtitle, image, education]
+    
+  - id: gradstudent
+    include: 
+      people_group: "gradstudent"
+    exclude:
+      external: true
+    template: ../html/people-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education]
+    
+  - id: post-bac
+    include: 
+      people_group: "undergrads"
+    exclude:
+      external: true
+    template: ../html/people-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education]
+ 
+page-layout: full
+---
+
+## Principal investigator
+
+::: {#pi}
+:::
+
+## Postdoctoral scientists
+
+::: {#postdoc}
+:::
+
+## Graduate students
+
+::: {#gradstudent}
+:::
+
+## Undergraduate researchers
+
+::: {#undergrads}
+:::

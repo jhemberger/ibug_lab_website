@@ -1,0 +1,56 @@
+---
+title: "Floral resource continuity boosts bumble bee colony performance relative to variable floral resources"
+date: 2023-06-19
+author:
+  - name: Jeremy Hemberger
+    url: https://jhemberger.github.io
+    orcid: 0000-0003-3648-4724
+    affiliation: University of Wisconsin-Madison
+  - name: Grant Witynski
+    url: 
+    orcid: 
+    affiliation: University of Illinois Urbana-Champaign
+  - name: Claudio Gratton
+    url: https://gratton.entomology.wisc.edu/
+    orcid: 0000-0001-6262-9670
+    affiliation: University of Wisconsin-Madison
+categories:
+ - resource continuity
+ - floral resources
+ - pollination services
+ - agroecosystem
+ - ecosystem services
+pub-info:
+  reference: >-
+    Jeremy Hemberger, Grant Witynski, Claudio Gratton, “Floral resource continuity boosts bumble bee colony performance relative to variable floral resources” <em>Ecological Entomology</em> 2022, doi: <a href="https://doi.org/10.1111/een.13154"><code>10.1111/een.13154</code></a>
+  links:
+    - name: Final version
+      url: ecoento-2022.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Code
+      url: https://figshare.com/s/1c72e2d937cbd9efc8fa?file=41408409
+      icon: fa-solid fa-code
+doi: 10.1111/een.13154
+---
+
+## Abstract
+
+Centuries of landscape changes associated with agriculture have dramatically reduced the amount and increased the temporal variability of the floral resources that support key pollinating insects such as bumble bees. Adapting to these novel resource conditions is important to ensure the persistence of bumble bee species. While several species appear to be in decline in modern agricultural landscapes, others have thrived, suggesting adaptation to exploit highly variable floral resources. Bombus impatiens, the common eastern bumble bee, is a prime example of such a species. We designed an experiment to compare how free‐foraging colonies of B. impatiens performed adjacent to areas with either temporally continuous or variable (pulsed) patches of purple tansy (Phacelia tanacetifolia) plantings. We found that colonies in Phacelia landscapes grew faster, had gained more mass, and produced more gynes than did colonies in reference landscapes with no Phacelia. Comparing colony responses between pulsed and continuous flowering resources showed that total mass gain at the end of the experiment was greater with continuous flowering resources. In contrast, colony growth rate and total gyne production were comparable for colonies adjacent to Phacelia plantings that were continuous versus pulsed. While low in statistical replication, given the scale of the experimental manipulation, our experiment shows that although B. impatiens colonies can exploit periods of resource discontinuity and gain mass, these continuously available floral resources appear important for colony growth and benefit gyne production. Landscape supplementation of floral resources reveals that continuously available floral resources provide a greater benefit to bumble bee colony performance (colony mass, gyne production, foraging activity) relative to discontinuous resource availability.
+
+## Important figures
+
+![<strong>Figure 1:</strong> Temporally continuous floral resources lead to improved colony growth, gyne production, and foraging activity relative to temporally discontinious resources.](fig1.jpg)
+
+## Citation
+
+``` bibtex
+@article{Hemberger.2022, 
+year = {2022}, 
+title = {{Floral resource continuity boosts bumble bee colony performance relative to variable floral resources}}, 
+author = {Hemberger, Jeremy and Witynski, Grant and Gratton, Claudio}, 
+journal = {Ecological Entomology}, 
+issn = {0307-6946}, 
+doi = {10.1111/een.13154}
+}
+```

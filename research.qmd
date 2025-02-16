@@ -2,3 +2,10 @@
 title: "Research"
 format: html
 ---
+
+
+## Agriculture and climate as drivers of insect behavior, populations, and communities
+
+## Emergent climate-resilience mechanisms across scales of biological organization
+
+## Novel tools for insect biodiversiy monitoring

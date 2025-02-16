@@ -1,0 +1,53 @@
+---
+title: "Floral resource discontinuity contributes to spatial mismatch between pollinator supply and pollination demand in a pollinator-dependent agricultural landscapes"
+date: 2023-06-19
+author:
+  - name: Jeremy Hemberger
+    url: https://jhemberger.github.io
+    orcid: 0000-0003-3648-4724
+    affiliation: University of Wisconsin-Madison
+  - name: Claudio Gratton
+    url: https://gratton.entomology.wisc.edu/
+    orcid: 0000-0001-6262-9670
+    affiliation: University of Wisconsin-Madison
+categories:
+ - resource continuity
+ - floral resources
+ - pollination services
+ - agroecosystem
+ - ecosystem services
+pub-info:
+  reference: >-
+    Jeremy Hemberger, Claudio Gratton, “Floral resource discontinuity contributes to spatial mismatch between pollinator supply and pollination demand in a pollinator-dependent agricultural landscapes” <em>Landscape Ecology</em> 2023, doi: <a href="https://doi.org/10.1007/s10980-023-01707-w"><code>10.1007/s10980-023-01707-w</code></a>
+  links:
+    - name: Final version
+      url: landeco-2023.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Code
+      url: https://figshare.com/s/1c72e2d937cbd9efc8fa?file=41408409
+      icon: fa-solid fa-code
+doi: 10.1007/s10980-023-01707-w
+---
+
+## Abstract
+
+Wild insects provide essential ecosystem services, including pollination, in both wild and managed landscapes. Over the past century, agricultural intensification and habitat loss have affected the amount and temporal availability of floral resources in the landscape—resources that all pollinating insects depend on. A reduction in the abundance and temporal continuity (i.e., gaps/bottlenecks in resources) of resources, for example, is associated with decreased occurrence of several bumble bee species within agricultural landscapes in Wisconsin. This has the potential to decrease the supply of pollination services to a variety of economically important crops. We inventoried the supply and demand of pollinators and pollinator dependent crops in a major fruit and vegetable production area in Wisconsin. We applied a model to predict the occurrence of wild bumble bees as a function of landscape-scale resource abundance and continuity as an index of pollinator “supply” and combined this with spatially-explicit data on pollinator-dependent crop production to identify areas of high pollination “demand”. In an important fruit producing area of central Wisconsin, we found a clear spatial mismatch between pollinator supply and pollination demand, with nearly 70% of landscapes with 15 or more hectares of pollinator dependent crops (e.g., cranberries, squash) exhibiting a lower bumble bee supply index relative to the intensity of crop demand. We found the source of this mismatch was largely due inadequate floral resource conditions for bumble bees, particularly due to high levels of resource discontinuity observed in the most agriculturally intensive landscapes (which also had the greatest pollination demands). Our results suggest that measures to increase crop diversity, reduce the size of fields, and focus on conserving and improving semi-natural habitat in the landscapes surrounding crop fields may support improved floral resource conditions. Such changes could ultimately bolster bumble bee populations, help stabilize the supply of pollination services, and improve the sustainability and economic stability of Wisconsin’s agricultural landscapes.
+
+## Important figures
+
+![<strong>Figure 1:</strong> (A) The total probability of occurrence for 8 bumble bee species (combined), each weighted by their relative abundance in the dataset (i.e., an index of pollination supply), and (B) total area of pollinator dependent crops, weighted by their estimated dependence on pollination services (i.e., an index of pollination demand). (C) Overlaying these two metrics yields a map of the match/mismatch of landscapes regarding pollination demand and supply. Landscapes in white and outlined in black represent landscapes with the greatest demand for pollination services but the lowest supply (i.e., predicted occurrence) of bumble bees (top left cell in 3 × 3 choropleth matrix). (D) The total number of landscapes (grid cells) where supply is either less than demand, or greater than or equal to demand for the entire region and E for high demand landscapes (top row in 3 × 3 matrix) where the total area of pollinator dependent crops is 15 ha or more.](fig1.jpg)
+
+## Citation
+
+``` bibtex
+@article{10.1007/s10980-023-01707-w, 
+year = {2023}, 
+title = {{Floral resource discontinuity contributes to spatial mismatch between pollinator supply and pollination demand in a pollinator-dependent agricultural landscapes}}, 
+author = {Hemberger, Jeremy and Gratton, Claudio}, 
+journal = {Landscape Ecology}, 
+issn = {0921-2973}, 
+doi = {10.1007/s10980-023-01707-w}, 
+pages = {1--12}
+}
+```

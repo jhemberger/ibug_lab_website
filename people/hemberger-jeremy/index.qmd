@@ -27,15 +27,16 @@ about:
     - icon: github
       text: GitHub 
       href: https://github.com/jhemberger
+    - text: CV
+      href: https://www.dropbox.com/scl/fi/tlnihf3uocmbhm23tsv2m/hemberger-cv-2025.pdf?rlkey=cxufahm3l7ci59p4emjzqwon7&st=4mlanu9d&dl=0
+      icon: file-pdf
 ---
-
-<hr>
 
 :::{#about}
 
-I am an ecologist and entomologist interested in how insects respond to changes in their landscape. I have worn a bunch of hats in my research career, working on topics ranging from insect foraging behavior to continental patterns of insect community change. I'm just as excited about big, creative experiments as I am about using existing data and some R sorcery to uncover cool new patterns. My work has largely used bumble bees as a model system, and a lot of my work still focuses on bumble and other wild bees. I have a special interest for insects in agricultural landscapes.
+I am an ecologist and entomologist interested in how insects respond to changes in their landscape. I have worn a bunch of hats in my research career, working on topics ranging from insect foraging behavior to continental-scale analyses of shifts in community composition. I'm just as excited about big, creative experiments as I am about using existing data and some R sorcery to uncover cool new patterns. My work has largely used bumble bees as a model system, and a lot of my work still focuses on bumble and other wild bees. I have a special interest for understanding, promoting, and managing insects in agricultural landscapes.
 
-Outside of work, I'm keen to stay active and enjoy playing hockey, running, riding all of the bikes, and have been climbing for almost 20 years. I have a kiddo named Fiadh ("Fee-ah"), a wife named Megan, and a menagerie of animals including two dogs, two cats, and 6 chickens. When I'm not doing all of this, you'll usually find me in the kitchen slingin' bread dough and cooking (mostly) tasty food.
+Outside of work, I'm keen to stay active and enjoy playing hockey, running, riding all of the bikes, and have been climbing for almost 20 years. I have a daughter named Fiadh ("Fee-ah"), a wife named Megan, and a menagerie of animals including two dogs, two cats, and 6 chickens. When I'm not doing all of this, you'll usually find me in the kitchen slingin' bread dough and cooking (mostly) tasty food.
 
 ## Education
 {{< meta education >}}

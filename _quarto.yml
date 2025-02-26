@@ -11,14 +11,19 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: news/index.qmd
+        text: News
+      - href: blog/index.qmd
+        text: "{{< iconify file-icons rstudio size=1em >}} Notebook"
       - href: people/index.qmd
         text: People
       - research.qmd
       - publications.qmd
       - opportunities.qmd
     right:
-      - href: file/path/to/myCV.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
+      - href: media/lab-manual_2025-02-28.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
         text: Lab Manual
+        icon: file-pdf
         target: _blank # opens link (or page) in a new browser tab
       - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
         href: https://bsky.app/profile/jhemberger.bsky.social
@@ -26,7 +31,7 @@ website:
       - icon: github # add icons as navbar buttons
         href: https://github.com/jhemberger
         target: _blank
-      - text: "{{< iconify fa6-brands orcid size=1.1em title='Bluesky' >}}"
+      - text: "{{< iconify fa6-brands orcid size=1.1em title='ORCID' >}}"
         href: https://orcid.org/0000-0003-3648-4724
         target: _blank
       - icon: envelope

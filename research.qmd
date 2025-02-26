@@ -3,8 +3,11 @@ title: "Research"
 format: html
 ---
 
+Our work focuses primarily on how insects respond to changes in land-use due to agriculture and shifts in climate and extreme weather in working landscapes. We use a variety of research approaches, but we specialize in using ecoinformatics and cross-scale experimental methods to examine insect responses from behaviors to communities. We strive to make our science open and accessible and to excel at clear science communication. Below, you'll find a non-exhaustive list of our ongoing research areas.
 
-## Agriculture and climate as drivers of insect behavior, populations, and communities
+## Climate and extreme weather as drivers of insect behavior, populations, and communities
+
+## Managing insect biodiversity in agroecosystems
 
 ## Emergent climate-resilience mechanisms across scales of biological organization
 

@@ -1,0 +1,55 @@
+---
+title: "Predicting landscape‐scale native bumble bee habitat use over space, time, and forage availability"
+date: 2025-02-14
+author:
+  - name: Jeremy Hemberger
+    url: https://jhemberger.github.io
+    orcid: 0000-0003-3648-4724
+    affiliation: University of California Davis
+  - name: Neal Williams
+    url: https://williamslab.ucdavis.edu/
+    orcid: 0000-0003-3053-8445
+    affiliation: University of California Davis
+categories:
+ - agroecosystem
+ - bumble bee
+ - insect foraging
+ - resource use
+pub-info:
+  reference: >-
+    Jeremy Hemberger and Neal Williams, “Predicting landscape‐scale native bumble bee habitat use over space, time, and forage availability” <em>Ecology</em> 2025, doi: <a href="https://doi.org/10.1002/ecy.70008"><code>10.1002/ecy.70008</code></a>
+  links:
+    - name: Final version
+      url: ecology-2025.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Code
+      url: https://doi.org/10.6084/m9.figshare.23527995
+      icon: fa-solid fa-code
+doi: 10.1002/ecy.70008
+---
+
+## Abstract
+
+The distribution and abundance of foraging resources are key determinants of animal habitat use and persistence. Decades of agricultural expansion and intensification, along with the introduction of exotic species, have dramatically altered resource distributions in space and time. The nature of contemporary landscapes requires new approaches to understand how mobile organisms utilize the resulting highly fragmented, heterogeneous resources. We used colonies of the native bumble bee (Bombus vosnesenskii) deployed among habitat types and a land use gradient to characterize how resource availability and use change as a function of landscape composition throughout the season in a diverse agricultural region of Northern California. We employ a novel probabilistic framework to identify the spatiotemporal patterns of bumble bee resource use in different habitats. Bumble bee resource preference (i.e., pollen foraging) and availability (i.e., flowering plant abundance) are driven by the composition of the surrounding landscape and the time of year. Bumble bees strongly preferred pollen from native plants, which was overrepresented in samples across the season relative to its estimated availability. Our probabilistic model framework also revealed a strong reliance on seminatural habitat in the landscape (e.g., oak savannahs, chapparal, and riparian corridors)—features that are increasingly rare in anthropogenically dominated landscapes. In fact, pollen resource use by colonies even in the most intensive landscapes was largely limited to interstitial habitat (e.g., field and road edges) despite available mass-flowering crops. Our results highlight the importance of mosaic landscapes (i.e., landscape heterogeneity) in allowing bumble bees to link resources through the season. The framework we develop also serves to enhance predictions of insect resource use within fragmented landscapes.
+
+## Important figures
+
+![<strong>Figure 1:</strong> Expectations of bumble bee pollen foraging preferences across a gradient of seminatural habitat. In landscapes containing low seminatural habitat, we expected workers of Bombus vosnesenskii to collect primarily exotic and crop pollen from marginal habitat/field edges and crop fields, respectively. In landscapes containing high seminatural habitat, we expected workers to collect primarily native pollen from within seminatural habitat features.](fig1.jpg){ width=75% }
+
+![<strong>Figure 2:</strong> Combining spatial information on distance‐weighted flower abundance from surveys along with model‐predicted foraging probability given seminatural habitat amount reveals the probability of bumble bees foraging on different landscape elements at three representative sites across the gradient of seminatural habitat (columns) and study months (rows). Darker colors indicate a higher probability of Bombus vosnesenskii foraging in each pixel.](fig2.jpg){ width=75% }
+
+## Citation
+
+``` bibtex
+@article{10.1002/ecy.70008, 
+year = {2025}, 
+title = {{Predicting landscape‐scale native bumble bee habitat use over space, time, and forage availability}}, 
+author = {Hemberger, Jeremy and Williams, Neal}, 
+journal = {Ecology}, 
+issn = {0012-9658}, 
+doi = {10.1002/ecy.70008}, 
+number = {2}, 
+volume = {106}
+}
+```

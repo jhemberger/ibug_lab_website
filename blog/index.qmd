@@ -1,5 +1,6 @@
 ---
-title: "index"
+title: "R Notebook"
 format: html
 ---
 
+Lab analysis/code/and tips blog is under construction! 🏗️

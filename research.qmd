@@ -8,6 +8,7 @@ Our work focuses primarily on how insects respond to changes in land-use due to 
 ## Climate and extreme weather as drivers of insect behavior, populations, and communities
 
 ## Managing insect biodiversity in agroecosystems
+Insects are essential organisms across all terrestrial ecosystems but have an especially critical role in agricultural landscapes as supporters of crop production. At the same time, many insect species reduce crop yields and the tools employed to control these pest species are at-odds with supporting beneficial insect biodiversity. In addition, the practices and structure of our agricultural landscapes over the last century, while dramatically increasing yields and nutritional stability, have had significant, negative effects on the population of insects that support crop production. 
 
 ## Emergent climate-resilience mechanisms across scales of biological organization
 

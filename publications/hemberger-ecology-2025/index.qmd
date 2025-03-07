@@ -35,9 +35,9 @@ The distribution and abundance of foraging resources are key determinants of ani
 
 ## Important figures
 
-![<strong>Figure 1:</strong> Expectations of bumble bee pollen foraging preferences across a gradient of seminatural habitat. In landscapes containing low seminatural habitat, we expected workers of Bombus vosnesenskii to collect primarily exotic and crop pollen from marginal habitat/field edges and crop fields, respectively. In landscapes containing high seminatural habitat, we expected workers to collect primarily native pollen from within seminatural habitat features.](fig1.jpg){ width=75% }
+![<strong>Figure 1:</strong> Expectations of bumble bee pollen foraging preferences across a gradient of seminatural habitat. In landscapes containing low seminatural habitat, we expected workers of Bombus vosnesenskii to collect primarily exotic and crop pollen from marginal habitat/field edges and crop fields, respectively. In landscapes containing high seminatural habitat, we expected workers to collect primarily native pollen from within seminatural habitat features.](fig1.jpg){width="75%"}
 
-![<strong>Figure 2:</strong> Combining spatial information on distance‐weighted flower abundance from surveys along with model‐predicted foraging probability given seminatural habitat amount reveals the probability of bumble bees foraging on different landscape elements at three representative sites across the gradient of seminatural habitat (columns) and study months (rows). Darker colors indicate a higher probability of Bombus vosnesenskii foraging in each pixel.](fig2.jpg){ width=75% }
+![<strong>Figure 2:</strong> Combining spatial information on distance‐weighted flower abundance from surveys along with model‐predicted foraging probability given seminatural habitat amount reveals the probability of bumble bees foraging on different landscape elements at three representative sites across the gradient of seminatural habitat (columns) and study months (rows). Darker colors indicate a higher probability of Bombus vosnesenskii foraging in each pixel.](fig2.jpg){width="75%"}
 
 ## Citation
 

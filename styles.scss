@@ -9,6 +9,7 @@ $robo: "Roboto", serif;
 // Colors
 $umn-red: #7a0019;
 $gopher-yl: #fc3;
+$gopher-yl-t: #ffcc3330;
 $amber-yl: #F5B800;
 $black-blue: #252422;
 $flower-white: #FFF8F0;
@@ -236,3 +237,11 @@ div.quarto-about-jolla .about-link {
 //  /*background-position: center center;*/
 //  /*background-attachment: fixed;*/
 // }
+
+
+.text-callout {
+  // height: 80%;
+  background-color: $gopher-yl-t;
+  box-sizing: border-box;
+  padding: 15px;
+}

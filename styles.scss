@@ -8,10 +8,13 @@ $robo: "Roboto", serif;
 
 // Colors
 $umn-red: #7a0019;
+$umn-red-t: #7a001910;
 $gopher-yl: #fc3;
-$gopher-yl-t: #ffcc3330;
+$gopher-yl-t: #ffcc3320;
+$gopher-yl-t2: #ffcc3340;
 $amber-yl: #F5B800;
 $black-blue: #252422;
+$black-blue-t: #25242215;
 $flower-white: #FFF8F0;
 $white: #FFFFFF;
 // $purple: #9158A2;
@@ -33,6 +36,8 @@ $link-color: $umn-red; // hyperlinks
 h1, h2, h3, h4, h5, h6 {
   font-family: $robo;
   font-weight: 600;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 body {
@@ -185,7 +190,7 @@ body {
 }
 
 .quarto-figure {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 figcaption {
   font-size: 1em;
@@ -239,9 +244,20 @@ div.quarto-about-jolla .about-link {
 // }
 
 
-.text-callout {
+.research-callout1 {
   // height: 80%;
-  background-color: $gopher-yl-t;
-  box-sizing: border-box;
+  background-color: $black-blue-t;
+  box-sizing: content-box;
   padding: 15px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+
+.research-callout2 {
+  // height: 80%;
+  background-color: $black-blue-t;
+  box-sizing: content-box;
+  padding: 15px;
+  padding-bottom: 5px;
+  border-radius: 15px;
 }

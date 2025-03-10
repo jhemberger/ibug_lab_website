@@ -37,6 +37,8 @@ Insects are essential organisms across all terrestrial ecosystems but have an es
 ## {{< fa earth-americas >}} Emergent climate-resilience mechanisms across scales of biological organization
 
 We're only beginning to understand the impact of a rapidly shifting climate on insect biodiversity and the ecological functions insects support. Most work thus far is limited to experimental lab methods to evaluate how environmental change (e.g., extreme heat) will impact insect behavior and reproduction. However, when we observe insects in more natural experimental and observational settings, emergent behaviors and community properties might temper the effect of environmental change, particularly within healthy landscapes. We're exploring this concept, predicting that resilience (that is, the capacity of an ecological system to deal with change and continue to develop) increases with increasing scale of biological organization and ecological complexity. Doing this work will allow us to better predict the consequences of climate change on the services and disservices that insects provide in agricultural landscapes.
+
+![<i>Resilience to climatic stress (e.g., heat waves) may be an emergent property of ecological systems, increasing with added levels of exprimental realism/biological complexity.</i>](./media/research/resilience_concept.png){width="90%" .lightbox fig-align="center" layout-valign="center"}
 :::
 </br>
 

@@ -2,3 +2,15 @@
 title: "Opportunities"
 format: html
 ---
+Stay tuned for recruitment announcements and vacancies below. We're hoping to start recruiting Fall of 2025, but opportunities may be available sooner.
+
+::: {layout="[1,1,1,1]"}
+
+![](./media/opportunities/opportunities1.jpg){.lightbox}
+
+![](./media/opportunities/opportunities2.JPG){.lightbox}
+
+![](./media/opportunities/opportunities5.jpg){.lightbox}
+
+![](./media/opportunities/opportunities4.jpg){.lightbox}
+:::

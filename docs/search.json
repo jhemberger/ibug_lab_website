@@ -263,7 +263,7 @@
     "href": "people/hemberger-jeremy/index.html#education",
     "title": "Jeremy Hemberger",
     "section": "",
-    "text": "Ph.D. Entomology | University of Wisconsin-Madison | 2020  B.S. Biology w/evolution emphasis | University of Wisconsin-Madison | 2012"
+    "text": "USDA NIFA Postdoctoral Fellowship | University of California Davis | 2020  PhD Entomology | University of Wisconsin-Madison | 2020  BSc Biology | University of Wisconsin-Madison | 2012"
   },
   {
     "objectID": "people/people.html",
@@ -375,7 +375,7 @@
     "href": "people/hemberger-jeremy/index.html",
     "title": "Jeremy Hemberger",
     "section": "",
-    "text": "Email\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     GitHub\n  \n  \n    \n     CV\n  \n\n  \n  \nI am an ecologist and entomologist interested in how insects respond to changes in their landscape. I have worn a bunch of hats in my research career, working on topics ranging from insect foraging behavior to continental-scale analyses of shifts in community composition. I’m just as excited about big, creative experiments as I am about using existing data and some R sorcery to uncover cool new patterns. My work has largely used bumble bees as a model system, and a lot of my work still focuses on bumble and other wild bees. I have a special interest for understanding, promoting, and managing insects in agricultural landscapes.\nOutside of work, I’m keen to stay active and enjoy playing hockey, running, riding all of the bikes, and have been climbing for almost 20 years. I have a daughter named Fiadh (“Fee-ah”), a wife named Megan, and a menagerie of animals including two dogs, two cats, and 6 chickens. When I’m not doing all of this, you’ll usually find me in the kitchen slingin’ bread dough and cooking (mostly) tasty food.\n\n\nPh.D. Entomology | University of Wisconsin-Madison | 2020  B.S. Biology w/evolution emphasis | University of Wisconsin-Madison | 2012"
+    "text": "Email\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     GitHub\n  \n  \n    \n     CV\n  \n\n  \n  \nI am an ecologist and entomologist interested in how insects respond to changes in their landscape. I have worn a bunch of hats in my research career, working on topics ranging from insect foraging behavior to continental-scale analyses of shifts in community composition. I’m just as excited about big, creative experiments as I am about using existing data and some R sorcery to uncover cool new patterns. My work has largely used bumble bees as a model system, and a lot of my work still focuses on bumble and other wild bees. I have a special interest for understanding, promoting, and managing insects in agricultural landscapes.\nOutside of work, I’m keen to stay active and enjoy playing hockey, running, riding all of the bikes, and have been climbing for almost 20 years. I have a daughter named Fiadh (“Fee-ah”), a wife named Megan, and a menagerie of animals including two dogs, two cats, and 6 chickens. When I’m not doing all of this, you’ll usually find me in the kitchen slingin’ bread dough and cooking (mostly) tasty food.\n\n\nUSDA NIFA Postdoctoral Fellowship | University of California Davis | 2020  PhD Entomology | University of Wisconsin-Madison | 2020  BSc Biology | University of Wisconsin-Madison | 2012"
   },
   {
     "objectID": "publications/hemberger-ecology-2025/index.html",
@@ -439,5 +439,12 @@
     "title": "Research",
     "section": "@fa-temperature Climate and extreme weather as drivers of insect behavior, populations, and communities",
     "text": "@fa-temperature Climate and extreme weather as drivers of insect behavior, populations, and communities\nThe force of a rapidly changing climate is creating a host of challenges for insect populations. For instance, extreme heat may directly impact insects while also indirectly affecting populations by altering resource availability over space and time. Despite numerous hypothesized scenarios, we have only a faint understanding of the scale of impending challenges or whether novel climatic conditions may in fact benefit insect populations in certain situations. To address this, we’re investigating a variety of climate drivers across scales by combining mechanistic insights gained from manipulative experiments with ecoinformatics methods to improve our capacity to predict insect responses and more effectively manage insect populations and the services/disservices they provide."
+  },
+  {
+    "objectID": "research.html#novel-tools-for-insect-biodiversity-monitoring",
+    "href": "research.html#novel-tools-for-insect-biodiversity-monitoring",
+    "title": "Research",
+    "section": " Novel tools for insect biodiversity monitoring",
+    "text": "Novel tools for insect biodiversity monitoring\nMonitoring and quantifying insect populations has long been a challenge plaguing entomologists and ecologists, alike. Highly variable populations, a limited pool of taxonomic expertise, and the simple logistical and financial challenges of conducting repeated, standardized surveys using people power each contribute to this challenge. To address this, we have been helping lead the development of affordable, autonomous camera-based monitoring systems using computer vision algorithms to automate data processing that can be deployed to address a range of research and monitoring questions. So far, we have been using these systems to understand how climate and agricultural drivers are together interacting to impact insect community activity and plant-pollinator interactions, quantify the impact of heat waves on pollinator visitation, and develop non-lethal tools for long-term monitoring of bumble bee biodiversity."
   }
 ]

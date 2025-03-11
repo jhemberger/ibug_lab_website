@@ -13,6 +13,8 @@ Our work focuses primarily on how insects respond to changes in land-use due to 
 
 The force of a rapidly changing climate is creating a host of challenges for insect populations. For instance, extreme heat may directly impact insects while also indirectly affecting populations by altering resource availability over space and time. Despite numerous hypothesized scenarios, we have only a faint understanding of the scale of impending challenges or whether novel climatic conditions may in fact benefit insect populations in certain situations. To address this, we're investigating a variety of climate drivers across scales by combining mechanistic insights gained from manipulative experiments with ecoinformatics methods to improve our capacity to predict insect responses and more effectively manage insect populations and the services/disservices they provide.
 
+![](./media/research/direct-indirect_1.png){width="75%" .lightbox fig-align="center" layout-valign="center"}
+
 ::: {layout="[1,1,1]"}
 
 ![](./media/research/chambers.jpeg){.lightbox}

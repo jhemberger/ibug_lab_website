@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  google-analytics: "G-9QW2N0QB7G"
   title: "UMN iBUG Lab"
   favicon: media/web-favicon.png
   navbar:

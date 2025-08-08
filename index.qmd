@@ -18,6 +18,8 @@ about:
       text: Email
       href: mailto:jhemberg@umn.edu
 ---
+
+```{=html}
 <style>
   body {
   background-image: url("https://jhemberger.github.io/images/photography/insects/2017_Insects-1.jpg");
@@ -27,5 +29,9 @@ about:
   background-repeat: no-repeat;
 }
 </style>
+```
 
-<p class="white-text">Welcome to the <strong>iBUG LAB</strong> in the <a data-original-href="https://entomology.umn.edu/" href="https://entomology.umn.edu/" class="white-text">University of Minnesota Department of Entomology</a>. We're a research group dedicated to understanding how insects are impacted by human changes to our environment. Our work focuses primarily on changes in land-use due to agriculture and shifts in climate and extreme weather in working landscapes using a variety of research approaches, but we specialize in using ecoinformatics and cross-scale experimental methods to examine insect responses from behaviors to communities. We work hard to find creative ways to apply our findings to develop targeted mitigation and conservation strategies to support insect biodiversity and the outsized ecological roles these small critters play in our landscapes.</p>
+
+
+<p class="white-text">Welcome to the <strong>iBUG LAB</strong> in the <a data-original-href="https://entomology.umn.edu/" href="https://entomology.umn.edu/" class="white-text">University of Minnesota Department of Entomology</a>. We're a research group dedicated to understanding how insects are impacted by human changes to our environment. Our work focuses primarily on changes in land-use due to agriculture and shifts in climate and extreme weather in working landscapes using a variety of research approaches, but we specialize in using ecoinformatics and cross-scale experimental methods to examine insect responses from behaviors to communities. We work hard to find creative ways to apply our findings to develop targeted mitigation and conservation strategies to support insect biodiversity and the outsized ecological roles these small critters play in our landscapes.
+</p>

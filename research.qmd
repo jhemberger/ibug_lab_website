@@ -2,59 +2,57 @@
 title: "Research"
 format: html
 ---
-Our work focuses primarily on how insects respond to changes in land-use due to agriculture and shifts in climate and extreme weather in working landscapes. We use a variety of research approaches, but we specialize in using ecoinformatics and cross-scale experimental methods to examine insect responses from behaviors to communities. We strive to make our science open and accessible and to excel at clear science communication. Below, you'll find a non-exhaustive list of our ongoing research areas.
-<!-- <div class="alert alert-dismissible alert-warning"> -->
-<!--   <p class="mb-0">Our work focuses primarily on how insects respond to changes in land-use due to agriculture and shifts in climate and extreme weather in working landscapes. We use a variety of research approaches, but we specialize in using ecoinformatics and cross-scale experimental methods to examine insect responses from behaviors to communities. We strive to make our science open and accessible and to excel at clear science communication. Below, you'll find a non-exhaustive list of our ongoing research areas.</p> -->
-<!-- </div> -->
-<!-- </br> -->
 
-::: {.research-callout1}
+Our work focuses primarily on how insects respond to changes in land-use due to agriculture and shifts in climate and extreme weather in working landscapes. We use a variety of research approaches, but we specialize in using ecoinformatics and cross-scale experimental methods to examine insect responses from behaviors to communities. We strive to make our science open and accessible and to excel at clear science communication. Below, you'll find a non-exhaustive list of our ongoing research areas. <!-- <div class="alert alert-dismissible alert-warning"> --> <!--   <p class="mb-0">Our work focuses primarily on how insects respond to changes in land-use due to agriculture and shifts in climate and extreme weather in working landscapes. We use a variety of research approaches, but we specialize in using ecoinformatics and cross-scale experimental methods to examine insect responses from behaviors to communities. We strive to make our science open and accessible and to excel at clear science communication. Below, you'll find a non-exhaustive list of our ongoing research areas.</p> --> <!-- </div> --> <!-- </br> -->
+
+:::: research-callout1
 ## {{< fa temperature-half >}} Climate and extreme weather as drivers of insect behavior, populations, and communities
 
 The force of a rapidly changing climate is creating a host of challenges for insect populations. For instance, extreme heat may directly impact insects while also indirectly affecting populations by altering resource availability over space and time. Despite numerous hypothesized scenarios, we have only a faint understanding of the scale of impending challenges or whether novel climatic conditions may in fact benefit insect populations in certain situations. To address this, we're investigating a variety of climate drivers across scales by combining mechanistic insights gained from manipulative experiments with ecoinformatics methods to improve our capacity to predict insect responses and more effectively manage insect populations and the services/disservices they provide.
 
-![](./media/research/direct-indirect_1.png){width="75%" .lightbox fig-align="center" layout-valign="center"}
+![](./media/research/direct-indirect_1.png){.lightbox width="75%" fig-align="center" layout-valign="center"}
 
 ::: {layout="[1,1,1]"}
-
 ![](./media/research/chambers.jpeg){.lightbox}
 
 ![](./media/research/rearing.jpeg){.lightbox}
 
 ![](./media/research/plants.jpg){.lightbox}
 :::
-:::
+::::
+
 </br>
 
-::: {.research-callout2}
+::: research-callout2
 ## {{< fa bug >}} Managing insect biodiversity in agroecosystems
 
-Insects are essential organisms across all terrestrial ecosystems but have an especially critical role in agricultural landscapes as supporters of crop production. At the same time, many insect species reduce crop yields and the tools employed to control these pest species are at-odds with supporting beneficial insect biodiversity. In addition, the practices and structure of our agricultural landscapes over the last century, while dramatically increasing yields and nutritional stability, have had significant, negative effects on the population of insects that support crop production. We're developing new methods to reconcile conflicting insect management strategies in agricultural landscapes to better support insect biodiversity while also working to mitigate the impact of crop pests. 
+Insects are essential organisms across all terrestrial ecosystems but have an especially critical role in agricultural landscapes as supporters of crop production. At the same time, many insect species reduce crop yields and the tools employed to control these pest species are at-odds with supporting beneficial insect biodiversity. In addition, the practices and structure of our agricultural landscapes over the last century, while dramatically increasing yields and nutritional stability, have had significant, negative effects on the population of insects that support crop production. We're developing new methods to reconcile conflicting insect management strategies in agricultural landscapes to better support insect biodiversity while also working to mitigate the impact of crop pests.
 
-![<i>Using pollen collected by returning bees along with spatially extensive flower surveys to predict the spatial foraging patterns of bumble bees in various landscape contexts to determine which landscape elements bees use and to help understand pesticide risk exposure.</i>](./media/research/pollen_forage.png){width="75%" .lightbox fig-align="center" layout-valign="center"}
+![<i>Using pollen collected by returning bees along with spatially extensive flower surveys to predict the spatial foraging patterns of bumble bees in various landscape contexts to determine which landscape elements bees use and to help understand pesticide risk exposure.</i>](./media/research/pollen_forage.png){.lightbox width="75%" fig-align="center" layout-valign="center"}
 :::
+
 </br>
 
-::: {.research-callout1}
+::: research-callout1
 ## {{< fa earth-americas >}} Emergent climate-resilience mechanisms across scales of biological organization
 
 We're only beginning to understand the impact of a rapidly shifting climate on insect biodiversity and the ecological functions insects support. Most work thus far is limited to experimental lab methods to evaluate how environmental change (e.g., extreme heat) will impact insect behavior and reproduction. However, when we observe insects in more natural experimental and observational settings, emergent behaviors and community properties might temper the effect of environmental change, particularly within healthy landscapes. We're exploring this concept, predicting that resilience (that is, the capacity of an ecological system to deal with change and continue to develop) increases with increasing scale of biological organization and ecological complexity. Doing this work will allow us to better predict the consequences of climate change on the services and disservices that insects provide in agricultural landscapes.
 
-![<i>Resilience to climatic stress (e.g., heat waves) may be an emergent property of ecological systems, increasing with added levels of exprimental realism/biological complexity.</i>](./media/research/resilience_concept.png){width="90%" .lightbox fig-align="center" layout-valign="center"}
+![<i>Resilience to climatic stress (e.g., heat waves) may be an emergent property of ecological systems, increasing with added levels of exprimental realism/biological complexity.</i>](./media/research/resilience_concept.png){.lightbox width="90%" fig-align="center" layout-valign="center"}
 :::
+
 </br>
 
-::: {.research-callout2}
+:::: research-callout2
 ## {{< iconify material-symbols speed-camera-rounded size=1.5em >}} Novel tools for insect biodiversity monitoring
 
 Monitoring and quantifying insect populations has long been a challenge plaguing entomologists and ecologists, alike. Highly variable populations, a limited pool of taxonomic expertise, and the simple logistical and financial challenges of conducting repeated, standardized surveys using people power each contribute to this challenge. To address this, we have been helping lead the development of affordable, autonomous camera-based monitoring systems using computer vision algorithms to automate data processing that can be deployed to address a range of research and monitoring questions. So far, we have been using these systems to understand how climate and agricultural drivers are together interacting to impact insect community activity and plant-pollinator interactions, quantify the impact of heat waves on pollinator visitation, and develop non-lethal tools for long-term monitoring of bumble bee biodiversity.
 
 ::: {layout="[1,1,1]"}
-
 ![](./media/research/camtrap.jpeg){.lightbox}
 
 ![](./media/research/camtrap-example.png){.lightbox}
 
 ![](./media/research/bvct-schematic@3x.png){.lightbox}
 :::
-:::
+::::

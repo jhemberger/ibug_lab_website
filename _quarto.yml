@@ -14,8 +14,8 @@ website:
         text: Home
       - href: news/index.qmd
         text: News
-      - href: blog/index.qmd
-        text: "{{< iconify file-icons rstudio size=1em >}} Notebook"
+      # - href: blog/index.qmd
+      #  text: "{{< iconify file-icons rstudio size=1em >}} Notebook"
       - href: people/index.qmd
         text: People
       - research.qmd

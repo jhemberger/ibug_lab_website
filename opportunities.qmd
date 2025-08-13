@@ -7,11 +7,11 @@ format: html
 
 We're currently recruiting between 2-3 master's and PhD students to join the lab, starting in 2026. Applications can be submitted through the University of Minnesota Department of Entomology (<https://entomology.umn.edu/prospective-students>). Applications will be due on **December 15, 2025**.
 
-Projects that students will be recruited onto include:
+Ongoing projects with support:
 
-1.  *For tinkerers:* Building, deploying, and testing an automated blue-vane camera trap for bumble bee monitoring
-2.  *For experimentalists:* Experimentally assessing the direct and indirect effects of climate change on insect reproduction and behavior
-3.  *For data science folks:* Building improved predictive models of insect pests and beneficial insects in agricultural landscapes given anticipated increases in temperature
+1.  ***For tinkerers:*** Building, deploying, and testing an automated blue-vane camera trap for bumble bee monitoring. Measuring changes in insect populations is a huge challenge. This project will start to build out the technology needed to perform continuous, real-time monitoring of insects using bumble bees as a model system. Folks with experience using camera traps, Raspberry Pis (and other IoT devices), and any Python skills are particularly encouraged to apply!
+2.  ***For experimentalists:*** Experimentally assessing effects of extreme weather on insect reproduction and behavior. This project will focus on how heat waves have the potential to impact insect populations by directly stressing individuals, and through impacts on their food resources. It will also explore how the timing of extreme weather might differentially impact insects across the growing season. To start, we'll be focusing on *Osmia* and *Bombus* model systems, but I'm open to include any other taxa students have interest and/or exerience with. 
+3.  ***For data science folks:*** Building improved predictive models of pests and beneficial insects in agricultural landscapes given anticipated increases in temperature. This project will use experimental assessments of temperature tolerance to inform models of risk for insects in ag systems into the future. We'll work to predict which insect taxa are likely to benefit or suffer from expected temperature conditions over the next 50-100 years. 
 
 ...and more! If you have project ideas related to the [labs research foci](/research.qmd), feel free to get in touch and we can talk about potential options.
 

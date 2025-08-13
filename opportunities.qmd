@@ -4,12 +4,22 @@ format: html
 ---
 
 ## Current openings
-Stay tuned for recruitment announcements and vacancies below. We're hoping to start recruiting Fall of 2025, but opportunities may be available sooner.
+
+We're currently recruiting between 2-3 master's and PhD students to join the lab, starting in 2026. Applications can be submitted through the University of Minnesota Department of Entomology (<https://entomology.umn.edu/prospective-students>). Applications will be due on **December 15, 2025**.
+
+Projects that students will be recruited onto include:
+
+1.  *For tinkerers:* Building, deploying, and testing an automated blue-vane camera trap for bumble bee monitoring
+2.  *For experimentalists:* Experimentally assessing the direct and indirect effects of climate change on insect reproduction and behavior
+3.  *For data science folks:* Building improved predictive models of insect pests and beneficial insects in agricultural landscapes given anticipated increases in temperature
+
+...and more! If you have project ideas related to the [labs research foci](/research.qmd), feel free to get in touch and we can talk about potential options.
 
 ## What qualities make for successful students?
-When recruiting staff and students, I am hoping to build a collaborative partnership where we can learn and grow together as scientists. I'm looking for students broadly interested in insect ecology and global change who able to see the work they do, even if foundational, from an applied perspective. There are many attributes that will help motivate successful candidates including curiosity, creativity, problem solving capacity, good communication skills (broadly defined), self-motivation, a vision for how a graduate degree with help advance their career and personal goals, and a *genuine interest and enthusiasm for the scientific endeavor*. Academia can be a fickle, frustrating, and fraught experience. Science moves slow, there are perennial funding challenges, experiments rarely go as planned, and the list goes on. All of the challenges are, at least somewhat, balanced by the excitement and freedom to pursue the knowledge and questions that we find most fascinating. It's important to remember that science is a team sport, but there is still a high-degree of intrinsic motivation required to persevere through its many challenges. It's also important to know that no one arrives with all of the skills needed to succeed in grad school: they develop through time, effort, feedback, and having grace for yourself as a developing scientist. 
 
-Take a look at this [great article on applying to graduate school](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/bes2.1917) for tips on preparing a successful application and determining whether a graduate degree is right for you. 
+When recruiting staff and students, I am hoping to build a collaborative partnership where we can learn and grow together as scientists. I'm looking for students broadly interested in insect ecology and global change who able to see the work they do, even if foundational, from an applied perspective. There are many attributes that will help motivate successful candidates including curiosity, creativity, problem solving capacity, good communication skills (broadly defined), self-motivation, a vision for how a graduate degree with help advance their career and personal goals, and a *genuine interest and enthusiasm for the scientific endeavor*. Academia can be a fickle, frustrating, and fraught experience. Science moves slow, there are perennial funding challenges, experiments rarely go as planned, and the list goes on. All of the challenges are, at least somewhat, balanced by the excitement and freedom to pursue the knowledge and questions that we find most fascinating. It's important to remember that science is a team sport, but there is still a high-degree of intrinsic motivation required to persevere through its many challenges. It's also important to know that no one arrives with all of the skills needed to succeed in grad school: they develop through time, effort, feedback, and having grace for yourself as a developing scientist.
+
+Take a look at this [great article on applying to graduate school](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/bes2.1917) for tips on preparing a successful application and determining whether a graduate degree is right for you.
 
 ::: {layout="[1,1,1,1]"}
 ![](./media/opportunities/opportunities1.jpg){.lightbox}

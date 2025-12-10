@@ -1,0 +1,45 @@
+---
+title: Haidyn Larson
+last: Larson
+first: Haidyn
+people_group: "staff"
+email: "lars7403@umn.edu"
+# education:
+#  - Ph.D. Entomology | University of Wisconsin-Madison | 2020 <br> B.S. Biology w/evolution emphasis | University of Wisconsin-Madison | 2012
+subtitle: "Researcher and Lab Manager"
+description: ""
+# project: "dmref"
+affiliation: University of Minnesota
+# image: 
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: rounded
+  image: mugshot.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:lars7403@umn.edu
+    # - text: Google Scholar
+    #   icon: mortarboard 
+    #   href: https://scholar.google.com/citations?user=54mZFJAAAAAJ&hl=en
+    # - icon: github
+    #   text: GitHub 
+    #   href: https://github.com/jhemberger
+    # - text: CV
+    #   href: https://www.dropbox.com/scl/fi/tlnihf3uocmbhm23tsv2m/hemberger-cv-2025.pdf?rlkey=cxufahm3l7ci59p4emjzqwon7&st=4mlanu9d&dl=0
+    #   icon: file-pdf
+---
+
+::: {#about}
+My expertise encompasses insect biology, plant pathology, and fungal biology, with a focus on interactions between pathogens and their hosts. I am particularly interested in innovative uses of fungi and insects in invasive species ecology, disease resistance, and bioremediation. I had the privilege of leading teams of undergraduate and graduate students over the course of three lively field seasons at the University of Minnesota’s Minnesota Agricultural Experiment Station, as well as collecting and analyzing multi-year data sets from our field trials. I am just as eager to work with and support the iBUG cohort through respectful, mindful, and strategic means.
+
+If I’m not in the lab, I’m probably roaming the outdoors in search of interesting collectibles or a cozy spot to read. My affinity for biology follows me home, where I tend to an ever-growing plant collection and a small assortment of insects—some alive, some not. While I don’t fly fish, I enjoy fly tying and appreciate the crossover of entomology and artistry in the craft. My other hobbies include dabbling in cryptozoology, strumming a guitar, and diving into various creative projects.
+
+## Education
+
+**BSc Plant Science** \| *University of Minnesota* \| 2025
+
+<!--{{< meta education >}}-->
+:::

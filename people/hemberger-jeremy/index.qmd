@@ -1,5 +1,5 @@
 ---
-title: &TITLE Jeremy Hemberger
+title: Jeremy Hemberger
 last: Hemberger
 first: Jeremy
 people_group: "pi"
@@ -38,12 +38,8 @@ I am an ecologist and entomologist interested in how insects respond to changes 
 Outside of work, I'm keen to stay active and enjoy playing hockey, running, riding all of the bikes, and have been climbing for almost 20 years. I have a daughter named Fiadh ("Fee-ah"), a wife named Megan, and a menagerie of animals including two dogs, two cats, and 6 chickens. When I'm not doing all of this, you'll usually find me in the kitchen slingin' bread dough and cooking (mostly) tasty food.
 
 ## Education
-**USDA NIFA Postdoctoral Fellowship** | *University of California Davis* | 2020
-</br>
-**PhD Entomology** | *University of Wisconsin-Madison* | 2020
-</br>
-**BSc Biology** | *University of Wisconsin-Madison* | 2012
+
+**USDA NIFA Postdoctoral Fellowship** \| *University of California Davis* \| 2020 </br> **PhD Entomology** \| *University of Wisconsin-Madison* \| 2020 </br> **BSc Biology** \| *University of Wisconsin-Madison* \| 2012
 
 <!--{{< meta education >}}-->
-
 :::

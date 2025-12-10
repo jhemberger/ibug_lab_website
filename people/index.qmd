@@ -30,9 +30,19 @@ listing:
     type: grid
     fields: [title, subtitle, image, education]
     
-  - id: post-bac
+  - id: undergrad
     include: 
       people_group: "undergrads"
+    exclude:
+      external: true
+    template: ../html/people-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education]
+
+  - id: staff
+    include: 
+      people_group: "staff"
     exclude:
       external: true
     template: ../html/people-box.ejs
@@ -48,6 +58,11 @@ page-layout: full
 ::: {#pi}
 :::
 
+## Staff
+
+::: {#staff}
+:::
+
 ## Postdoctoral scientists
 
 ::: {#postdoc}
@@ -58,7 +73,7 @@ page-layout: full
 ::: {#gradstudent}
 :::
 
-## Undergraduate researchers
+## Undergraduate students
 
 ::: {#undergrads}
 :::

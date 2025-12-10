@@ -10,7 +10,7 @@ subtitle: "Researcher and Lab Manager"
 description: ""
 # project: "dmref"
 affiliation: University of Minnesota
-# image: 
+image: mugshot.jpg
 page-layout: full
 about: 
   id: about

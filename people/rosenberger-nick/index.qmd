@@ -1,0 +1,40 @@
+---
+title: Nick Rosenberger
+last: Rosenberger
+first: Nick
+people_group: "collaborators"
+email: "nick.rosenberger@nature.uni-freiburg.de"
+education:
+  - Ph.D Ecology | University of California Davis | 2023
+subtitle: "Plant pollinator extraordinaire"
+description: ""
+# project: "dmref"
+affiliation: University of Freiburg
+image: nick-mugshot.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: rounded
+  image: nick-mugshot.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:nick.rosenberger@nature.uni-freiburg.de
+    # - text: Google Scholar
+    #   icon: mortarboard 
+    #   href: https://scholar.google.com/citations?user=54mZFJAAAAAJ&hl=en
+    # - icon: github
+    #   text: GitHub 
+    #   href: https://github.com/jhemberger
+    # - text: CV
+    #   href: https://www.dropbox.com/scl/fi/tlnihf3uocmbhm23tsv2m/hemberger-cv-2025.pdf?rlkey=cxufahm3l7ci59p4emjzqwon7&st=4mlanu9d&dl=0
+    #   icon: file-pdf
+---
+
+::: {#about}
+
+## Education
+
+<!--{{< meta education >}}-->
+:::

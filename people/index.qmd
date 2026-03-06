@@ -49,6 +49,16 @@ listing:
     sort: last
     type: grid
     fields: [title, subtitle, image, education]
+
+  - id: collaborators
+    include: 
+      people_group: "collaborators"
+    exclude:
+      external: true
+    template: ../html/people-box.ejs
+    sort: last
+    type: grid
+    fields: [title, subtitle, image, education]
  
 page-layout: full
 ---
@@ -76,4 +86,10 @@ page-layout: full
 ## Undergraduate students
 
 ::: {#undergrads}
+:::
+
+
+## Collaborators
+
+::: {#collaborators}
 :::

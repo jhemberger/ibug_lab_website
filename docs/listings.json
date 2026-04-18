@@ -1,25 +1,7 @@
 [
   {
-    "listing": "/publications.html",
-    "items": [
-      "/publications/hemberger-ecology-2025/index.html",
-      "/publications/hemberger-ecoletters-2024/index.html",
-      "/publications/hemberger-ecoento-2022/index.html",
-      "/publications/hemberger-landeco-2023/index.html",
-      "/publications/hemberger-ecoapps-2023/index.html",
-      "/publications/hemberger-funceco-2023/index.html",
-      "/publications/hemberger-ecoletters-2021/index.html"
-    ]
-  },
-  {
     "listing": "/posts.html",
     "items": []
-  },
-  {
-    "listing": "/people/people.html",
-    "items": [
-      "/people/hemberger-jeremy/index.html"
-    ]
   },
   {
     "listing": "/people/index.html",
@@ -33,6 +15,18 @@
     "listing": "/news-posts.html",
     "items": [
       "/news/2026-04-17_first-update/index.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/hemberger-ecology-2025/index.html",
+      "/publications/hemberger-ecoletters-2024/index.html",
+      "/publications/hemberger-ecoento-2022/index.html",
+      "/publications/hemberger-landeco-2023/index.html",
+      "/publications/hemberger-ecoapps-2023/index.html",
+      "/publications/hemberger-funceco-2023/index.html",
+      "/publications/hemberger-ecoletters-2021/index.html"
     ]
   }
 ]

@@ -1,6 +1,0 @@
----
-title: "Lab News"
-format: html
----
-
-Lab news blog is under construction! 📰

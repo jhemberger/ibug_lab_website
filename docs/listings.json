@@ -28,5 +28,11 @@
       "/people/larson-haidyn/index.html",
       "/people/rosenberger-nick/index.html"
     ]
+  },
+  {
+    "listing": "/news-posts.html",
+    "items": [
+      "/news/2026-04-17_first-update/index.html"
+    ]
   }
 ]

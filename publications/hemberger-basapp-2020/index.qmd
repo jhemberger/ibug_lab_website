@@ -1,0 +1,61 @@
+---
+title: "Saved by the pulse? Separating the effects of total and temporal food abundance on the growth and reproduction of bumble bee microcolonies"
+date: 2020-04-27
+author:
+  - name: Jeremy Hemberger
+    url: https://jhemberger.github.io
+    orcid: 0000-0003-3648-4724
+    affiliation: University of Wisconsin-Madison
+  - name: Agathe Frappa
+    url: 
+    orcid: 
+    affiliation: Montpellier Supagro
+  - name: Grant Witynski
+    url: 
+    orcid: 
+    affiliation: University of Wisconsin-Madison
+  - name: Claudio Gratton
+    url: https://gratton.entomology.wisc.edu/
+    orcid: 0000-0001-6262-9670
+    affiliation: University of Wisconsin-Madison
+categories:
+ - bumble bee
+ - temporal variability
+ - resources
+ - colony growth
+pub-info:
+  reference: >-
+    Jeremy Hemberger, Agathe Frappa, Grant Witynski, Claudio Gratton, “Saved by the pulse? Separating the effects of total and temporal food abundance on the growth and reproduction of bumble bee microcolonies” <em>Basic and Applied Ecology</em> 2020, doi: <a href="https://doi.org/10.1016/j.baae.2020.04.004"<code>10.1016/j.baae.2020.04.004</code></a>
+  links:
+    - name: Final version
+      url: basapp-2020.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Code
+      url: https://github.com/jhemberger/2018-microcolony-experiments
+      icon: fa-solid fa-code
+doi: 10.1002/eap.2907
+---
+
+## Abstract
+
+The loss of flower-rich habitat in agricultural landscapes is a key factor contributing to bumble bee declines across Europe and North America. Yet, agricultural intensification has not only altered flower abundance in the landscape, but also affected when flowers are available during the season (e.g., mass-flowering crops). While we know that both total pollen and nectar as well as temporal availability can impact bumble bee colony success (growth and reproductive output), we have yet to understand how these two factors combined might manifest. We designed an experiment to decouple the effects of total food abundance and its temporal availability on bumble bee microcolony development by exposing them to either constant or pulsed food availability at a high and low ration level. Microcolonies provided constant, high-rations of food grew the most, while those fed variable, but high rations gained less mass over the course of the experiment. Regardless of the temporal presentation of food, microcolonies fed low rations gained little mass over the experiment. Reproductive output was greatest in microcolonies fed high rations, regardless of the temporal availability of food, while those given low rations produced on average 27% fewer drones. This study highlights the importance of food abundance for both colony growth and reproduction, regardless of how food is presented (e.g., constantly or in a pulse). Together, these results indicate that increasing total food abundance will have the greatest, positive impact on colony fitness.
+
+## Important figures
+
+![<strong>Figure 1:</strong> A) Least square mean (LSM) estimated brood mass (from Eq. (1)) throughout the experiment and (B) least square mean terminal brood mass (from microcolony dissections), HC = high-constant, HP = high-pulse, LC = low-constant, LP = low-pulse. Letters indicate significant differences. Gray bands represent food pulse periods. Error bars are 95% confidence intervals. Difference of 1 interval feeding day is equal to 3 Julian days.](fig1.jpg)
+
+## Citation
+
+``` bibtex
+@article{Hemberger2020, 
+  year     = {2020}, 
+  title    = {Saved by the pulse? Separating the effects of total and temporal food abundance on the growth and reproduction of bumble bee microcolonies}, 
+  author   = {Hemberger, Jeremy and Frappa, Agathe and Witynski, Grant and Gratton, Claudio}, 
+  journal  = {Basic and Applied Ecology}, 
+  issn     = {1439-1791}, 
+  doi      = {10.1016/j.baae.2020.04.004}, 
+  pages    = {1--11}, 
+  volume   = {45}
+}
+```

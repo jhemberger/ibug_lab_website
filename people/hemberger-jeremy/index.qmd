@@ -10,7 +10,7 @@ subtitle: "Assistant Professor"
 description: ""
 # project: "dmref"
 affiliation: University of Minnesota
-image: mugshot.jpg
+image: jeremy_avatar2.png
 page-layout: full
 about: 
   id: about

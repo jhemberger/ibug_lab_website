@@ -16,7 +16,7 @@ about:
   id: about
   template: trestles
   image-shape: rounded
-  image: mugshot.jpg
+  image: jeremy_avatar2.png
   links:
     - icon: envelope
       text: Email

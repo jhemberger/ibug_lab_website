@@ -1,13 +1,75 @@
 ---
 title: "Publications"
-listing: 
-  contents: "publications/*/index.qmd" # this name must match the name of the folder you created in step #1; here, all Quarto docs in the `posts` directory will be included on your listing page
-  template: ./html/listing.ejs
-  type: grid # or `default` or `table`; each type has its own set of yaml options to include
-  sort: "date desc" # can also sort on more than one field
-  categories: true # allows you to sort posts by assigned categories 
-  fields: [date]
+listing:
+  - id: pubs-2020
+    contents: "publications/2020/*/index.qmd"
+    template: ./html/listing.ejs
+    sort: "date desc"
+    sort-ui: true
+  - id: pubs-2021
+    contents: "publications/2021/*/index.qmd"
+    template: ./html/listing.ejs
+    sort: "date desc"
+  - id: pubs-2022
+    contents: "publications/2022/*/index.qmd"
+    template: ./html/listing.ejs
+    sort: "date desc"
+  - id: pubs-2023
+    contents: "publications/2023/*/index.qmd"
+    template: ./html/listing.ejs
+    # type: grid
+    sort: "date desc"
+  - id: pubs-2024
+    contents: "publications/2024/*/index.qmd"
+    template: ./html/listing.ejs
+    sort: "date desc"
+  - id: pubs-2025
+    contents: "publications/2025/*/index.qmd"
+    template: ./html/listing.ejs
+    sort: "date desc"
+  - id: pubs-2026
+    contents: "publications/2026/*/index.qmd"
+    template: ./html/listing.ejs
+    sort: "date desc"
 ---
 
-::: {#publications}
+
+::: research-callout1
+Below you'll find details on the the lab's publications. In full details, you'll find the abstract, main figures, and links to data and code (as well as the full PDF). Please also check Jeremy's [Google Scholar](https://scholar.google.com/citations?user=yU1oFwgAAAAJ&hl=en) for the most up-to-date compilation of our work.
 :::
+
+</br>
+
+## 2026
+::: {#pubs-2026}
+:::
+
+## 2025
+::: {#pubs-2025}
+:::
+
+## 2024
+::: {#pubs-2024}
+:::
+
+## 2023
+::: {#pubs-2023}
+:::
+
+## 2022
+::: {#pubs-2022}
+:::
+
+## 2021
+::: {#pubs-2021}
+:::
+
+## 2020
+::: {#pubs-2020}
+:::
+
+
+
+
+
+

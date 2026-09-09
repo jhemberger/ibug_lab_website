@@ -63,6 +63,14 @@ listing:
 page-layout: full
 ---
 
+::: research-callout1
+We're a dedicated and diverse group working better understand insect responses to global change and advocate for their conservation. Interested in joining the group? See our available [opportunities](../opportunities.qmd) to learn more about joining the lab.
+
+![](lab-photo.png){width="100%"}
+:::
+
+</br> </br>
+
 ## Principal investigator
 
 ::: {#pi}
@@ -87,7 +95,6 @@ page-layout: full
 
 ::: {#undergrads}
 :::
-
 
 ## Collaborators
 

@@ -16,7 +16,9 @@ $amber-yl: #F5B800;
 $black-blue: #252422;
 $black-blue-t: #25242215;
 $flower-white: #FFF8F0;
+$flower-white-t: #FFF8F050;
 $white: #FFFFFF;
+$ltgray: #fafafa;
 // $purple: #9158A2;
 // $orange: #ad7237;
 
@@ -25,7 +27,7 @@ $white: #FFFFFF;
 $navbar-bg: $amber-yl; // navbar
 $navbar-fg: $flower-white; // navbar foreground elements
 $navbar-hl: $white; // highlight color when hovering over navbar links
-// $body-bg: $light-green; // page background 
+$body-bg: $ltgray; // page background 
 $body-color: $black-blue; // page text 
 // $footer-bg: $umn-red; // footer 
 $footer-bg: $amber-yl; // footer 
@@ -246,18 +248,102 @@ div.quarto-about-jolla .about-link {
 
 .research-callout1 {
   // height: 80%;
-  background-color: $black-blue-t;
+  background-color: $white;
   box-sizing: content-box;
   padding: 15px;
   padding-bottom: 5px;
   border-radius: 15px;
+  border-style: solid;
+  border-color: #1d1c1c20;
+  border-width: 1px;
 }
 
 .research-callout2 {
   // height: 80%;
-  background-color: $black-blue-t;
+  background-color: $flower-white;
   box-sizing: content-box;
   padding: 15px;
   padding-bottom: 5px;
   border-radius: 15px;
+  border-style: solid;
+  border-color: #1d1c1c20;
+  border-width: 1px;
+}
+
+.homepage-alert {
+  // height: 80%;
+  color: #ffffff !important;
+  background-color: $gopher-yl-t;
+  box-sizing: content-box;
+  padding: 15px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: $gopher-yl;
+  border-width: 1px;
+}
+
+
+.hire-alert {
+  // height: 80%;
+  // color: #ffffff !important;
+  background-color: $gopher-yl-t;
+  box-sizing: content-box;
+  padding: 15px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: $gopher-yl;
+  border-width: 1px;
+}
+
+// Custom styling for primary buttons
+.btn.btn-primary {
+  background-color: $flower-white;       /* Custom background color */
+  border-color: $gopher-yl;           /* Match border color */
+  color: $gopher-yl;                       /* Text color */
+  border-radius: 8px;                   /* Corner rounding */
+  padding: 0.5em 1.25em;                /* Button padding */
+  font-weight: 600;                     /* Text thickness */
+  text-decoration: none;                /* Remove underline from link buttons */
+  transition: all 0.2s ease-in-out;    /* Smooth hover effect */
+
+  // Hover state
+  &:hover, &:focus {
+    background-color: darken($gopher-yl-t2, 10%);
+    border-color: darken($gopher-yl-t2, 10%);
+    color: $gopher-yl;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  }
+
+  // Active / Clicked state
+  &:active {
+    background-color: darken($gopher-yl-t, 15%);
+    border-color: darken($gopher-yl-t, 15%);
+  }
+}
+
+.btn.btn-primary-inv {
+  background-color: $flower-white-t;      /* Custom background color */
+  border-color: $gopher-yl;             /* Match border color */
+  color: $gopher-yl;                    /* Text color */
+  border-radius: 8px;                   /* Corner rounding */
+  padding: 0.5em 1.25em;                /* Button padding */
+  font-weight: 600;                     /* Text thickness */
+  text-decoration: none;                /* Remove underline from link buttons */
+  transition: all 0.2s ease-in-out;     /* Smooth hover effect */
+
+  // Hover state
+  &:hover, &:focus {
+    background-color: darken($gopher-yl-t2, 10%);
+    border-color: darken($gopher-yl-t2, 10%);
+    color: $gopher-yl;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  }
+
+  // Active / Clicked state
+  &:active {
+    background-color: darken($gopher-yl-t, 15%);
+    border-color: darken($gopher-yl-t, 15%);
+  }
 }

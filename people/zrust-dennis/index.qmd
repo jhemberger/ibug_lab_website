@@ -1,0 +1,45 @@
+---
+title: Dennis Zrust
+last: Zrust
+first: Dennis
+people_group: "undergrads"
+email: "zrust013@umn.edu"
+# education:
+#  - Ph.D. Entomology | University of Wisconsin-Madison | 2020 <br> B.S. Biology w/evolution emphasis | University of Wisconsin-Madison | 2012
+subtitle: "Undergraduate Researcher"
+description: ""
+# project: "dmref"
+affiliation: University of Minnesota
+image: dz-headshot.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: rounded
+  image: dz-headshot.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:zrust013@umn.edu
+    # - text: Google Scholar
+    #   icon: mortarboard 
+    #   href: https://scholar.google.com/citations?user=54mZFJAAAAAJ&hl=en
+    # - icon: github
+    #   text: GitHub 
+    #   href: https://github.com/jhemberger
+    # - text: CV
+    #   href: https://www.dropbox.com/scl/fi/tlnihf3uocmbhm23tsv2m/hemberger-cv-2025.pdf?rlkey=cxufahm3l7ci59p4emjzqwon7&st=4mlanu9d&dl=0
+    #   icon: file-pdf
+---
+
+::: {#about}
+I'm Dennis, a senior mechanical engineer at the University of Minnesota! I'm researching the design and deployment of autonomous camera traps that monitor pollinator populations. These traps will be used to determine insect biodiversity and provide data on climate and agricultural effects on populations. My personal project is researching the viability of 3D printing for insect rearing and containment!
+
+My personal interests include running, climbing, backpacking/camping, and coffee. I love to travel and visit cool nature whenever I can!
+
+## Education
+
+**BS Mechanical Engineering** \| *University of Minnesota* \| 2027
+
+<!--{{< meta education >}}-->
+:::

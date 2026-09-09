@@ -1,0 +1,45 @@
+---
+title: Ana Karina Andrade
+last: Andrade
+first: Ana Karina
+people_group: "gradstudent"
+email: "andra238@umn.edu"
+# education:
+#  - Ph.D. Entomology | University of Wisconsin-Madison | 2020 <br> B.S. Biology w/evolution emphasis | University of Wisconsin-Madison | 2012
+subtitle: "MS Student"
+description: ""
+# project: "dmref"
+affiliation: University of Minnesota
+image: ak-headshot.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: rounded
+  image: ak-headshot.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:andra238@umn.edu
+    # - text: Google Scholar
+    #   icon: mortarboard 
+    #   href: https://scholar.google.com/citations?user=54mZFJAAAAAJ&hl=en
+    # - icon: github
+    #   text: GitHub 
+    #   href: https://github.com/jhemberger
+    # - text: CV
+    #   href: https://www.dropbox.com/scl/fi/tlnihf3uocmbhm23tsv2m/hemberger-cv-2025.pdf?rlkey=cxufahm3l7ci59p4emjzqwon7&st=4mlanu9d&dl=0
+    #   icon: file-pdf
+---
+
+::: {#about}
+I am a graduate student at the University of Minnesota working towards my Master of Science in Entomology. I am originally from Southern California and obtained my Bachelor of Arts in Biology at California State University Northridge. Much of my professional experience has consisted of a mix of research, field work, and K-12 education programming in the areas of botany and seed science. In past positions I have worked extensively with various federal agencies such as the United States Forest Service, United States Geological Survey, and The National Park Service. My journey into Entomology and into UMN stemmed from my developing interest in expanding my botanical focus to investigate plant-pollinator community dynamics. The project I will be working on will be in helping develop and implement a non-lethal bumblebee camera trap that can identify and assist in population monitoring of threatened bumblebee species.
+
+On a non-job related note I enjoy drawing and printmaking landscapes of places I've visited during my times in nature. I am also a bit of a desert rat and sketch a lot of desert scenes inspired from my time working in Nevada and exploring National Parks in Utah. Some fun facts about me are that my favorite insects are Cicadas! As a botany nerd as well my favorite native plant in California is California Buckwheat and my favorite Minnesota native plant is Wild Quinine!
+
+## Education
+
+**BA Biology** \| *California State University Northridge* \| 2023
+
+<!--{{< meta education >}}-->
+:::

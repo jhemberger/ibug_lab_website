@@ -7,27 +7,33 @@
     "listing": "/people/index.html",
     "items": [
       "/people/hemberger-jeremy/index.html",
+      "/people/andrade-ana-karina/index.html",
+      "/people/manning-isabella/index.html",
+      "/people/zrust-dennis/index.html",
       "/people/larson-haidyn/index.html",
+      "/people/wiebe-jake/index.html",
       "/people/rosenberger-nick/index.html"
-    ]
-  },
-  {
-    "listing": "/news-posts.html",
-    "items": [
-      "/news/2026-04-17_first-update/index.html"
     ]
   },
   {
     "listing": "/publications.html",
     "items": [
-      "/publications/hemberger-ecology-2025/index.html",
-      "/publications/hemberger-ecoletters-2024/index.html",
-      "/publications/hemberger-ecoento-2022/index.html",
-      "/publications/hemberger-landeco-2023/index.html",
-      "/publications/hemberger-ecoapps-2023/index.html",
-      "/publications/hemberger-funceco-2023/index.html",
-      "/publications/hemberger-ecoletters-2021/index.html",
-      "/publications/hemberger-basapp-2020/index.html"
+      "/publications/2020/hemberger-basapp-2020/index.html",
+      "/publications/2021/hemberger-ecoletters-2021/index.html",
+      "/publications/2022/hemberger-ecoento-2022/index.html",
+      "/publications/2023/hemberger-landeco-2023/index.html",
+      "/publications/2023/hemberger-ecoapps-2023/index.html",
+      "/publications/2023/hemberger-funceco-2023/index.html",
+      "/publications/2024/hemberger-ecoletters-2024/index.html",
+      "/publications/2025/hemberger-ecology-2025/index.html",
+      "/publications/2026/smith-methods-ecology-evo-2026/index.html"
+    ]
+  },
+  {
+    "listing": "/news-posts.html",
+    "items": [
+      "/news/2026-04-17_first-update/index.html",
+      "/news/2026-09-09_nsf-award/index.html"
     ]
   }
 ]

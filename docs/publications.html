@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Publications – UMN iBUG Lab</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -39,10 +45,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dfcb7fb6da2142ee33e6b7f67cb87998.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b72fb48591034a4134162c4858d14484.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
@@ -76,20 +82,188 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-pubs-2020 .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-engines','listing-language','listing-freeze','listing-title-block-banner','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-doi','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-project","listing-website","listing-format","listing-editor","listing-language","listing-freeze","listing-title-block-banner","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-doi","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+      searchColumns: ["listing-project","listing-website","listing-format","listing-editor","listing-engines","listing-language","listing-freeze","listing-title-block-banner","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-doi","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-pubs-2020'] = new List('listing-pubs-2020', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-pubs-2021 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-engines','listing-language','listing-freeze','listing-title-block-banner','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-doi','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-website","listing-format","listing-editor","listing-engines","listing-language","listing-freeze","listing-title-block-banner","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-doi","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-pubs-2021'] = new List('listing-pubs-2021', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-pubs-2022 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-engines','listing-language','listing-freeze','listing-title-block-banner','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-doi','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-website","listing-format","listing-editor","listing-engines","listing-language","listing-freeze","listing-title-block-banner","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-doi","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-pubs-2022'] = new List('listing-pubs-2022', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-pubs-2023 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-engines','listing-language','listing-freeze','listing-title-block-banner','listing-title','listing-date','listing-author','listing-categories','listing-image','listing-pub-info','listing-doi','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-website","listing-format","listing-editor","listing-engines","listing-language","listing-freeze","listing-title-block-banner","listing-title","listing-date","listing-author","listing-categories","listing-image","listing-pub-info","listing-doi","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-pubs-2023'] = new List('listing-pubs-2023', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-pubs-2024 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-engines','listing-language','listing-freeze','listing-title-block-banner','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-doi','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-website","listing-format","listing-editor","listing-engines","listing-language","listing-freeze","listing-title-block-banner","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-doi","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-pubs-2024'] = new List('listing-pubs-2024', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-pubs-2025 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-engines','listing-language','listing-freeze','listing-title-block-banner','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-doi','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-website","listing-format","listing-editor","listing-engines","listing-language","listing-freeze","listing-title-block-banner","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-doi","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-pubs-2025'] = new List('listing-pubs-2025', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-pubs-2026 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-engines','listing-language','listing-freeze','listing-title-block-banner','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-doi','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-website","listing-format","listing-editor","listing-engines","listing-language","listing-freeze","listing-title-block-banner","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-doi","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-pubs-2026'] = new List('listing-pubs-2026', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -113,7 +287,7 @@ gtag('config', 'G-9QW2N0QB7G', { 'anonymize_ip': true});
 </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -126,7 +300,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -152,7 +326,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./media/umn-logo-hex@3x.png" alt="" class="navbar-logo">
+    <img src="./media/umn-logo-hex@3x.png" alt="" class="navbar-logo light-content">
+    <img src="./media/umn-logo-hex@3x.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -188,7 +363,7 @@ window.Quarto = {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./media/lab-manual_2025-02-28.pdf" target="_blank"> <i class="bi bi-file-pdf" role="img">
+    <a class="nav-link" href="./media/lab-manual_2026-09-08.pdf" target="_blank"> <i class="bi bi-file-pdf" role="img">
 </i> 
 <span class="menu-text">Lab Manual</span></a>
   </li>  
@@ -197,7 +372,7 @@ window.Quarto = {
 <span class="menu-text"><iconify-icon role="img" inline="" icon="fa6-brands:bluesky" style="font-size: 1.1em;" aria-label="Icon bluesky from fa6-brands Iconify.design set." title="Bluesky"></iconify-icon></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/jhemberger" target="_blank"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/ibug-lab" target="_blank"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -222,8 +397,20 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(8)</span></div><div class="category" data-category="YWdyaWN1bHR1cmFsJTIwaW50ZW5zaWZpY2F0aW9u">agricultural intensification <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YWdyb2Vjb3N5c3RlbQ==">agroecosystem <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Ym9tYnVz">bombus <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YnVtYmxlJTIwYmVl">bumble bee <span class="quarto-category-count">(4)</span></div><div class="category" data-category="YnVtYmxlYmVl">bumblebee <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y2xpbWF0ZSUyMGNoYW5nZQ==">climate change <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Y29sb255JTIwZ3Jvd3Ro">colony growth <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29tbXVuaXR5JTIwY29tcG9zaXRpb24=">community composition <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29tbXVuaXR5JTIwdGVtcGVyYXR1cmUlMjBpbmRleA==">community temperature index <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y3JvcCUyMGRpdmVyc2l0eQ==">crop diversity <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZWNvaW5mb3JtYXRpY3M=">ecoinformatics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZWNvc3lzdGVtJTIwc2VydmljZXM=">ecosystem services <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZXh0cmVtZSUyMGhlYXQ=">extreme heat <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZmxvcmFsJTIwcmVzb3VyY2Vz">floral resources <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Zm9yYWdpbmc=">foraging <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Z2xvYmFsJTIwY2hhbmdl">global change <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGVhdCUyMHdhdmU=">heat wave <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aW5zZWN0JTIwZm9yYWdpbmc=">insect foraging <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cGxhbnQlRTIlODAlOTNwb2xsaW5hdG9yJTIwaW50ZXJhY3Rpb24=">plant–pollinator interaction <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cG9sbGluYXRpb24lMjBzZXJ2aWNlcw==">pollination services <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cmVzb3VyY2UlMjBjb250aW51aXR5">resource continuity <span class="quarto-category-count">(3)</span></div><div class="category" data-category="cmVzb3VyY2UlMjBkeW5hbWljcw==">resource dynamics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cmVzb3VyY2UlMjB1c2U=">resource use <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cmVzb3VyY2Vz">resources <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dGVtcG9yYWwlMjB2YXJpYWJpbGl0eQ==">temporal variability <span class="quarto-category-count">(1)</span></div><div class="category" data-category="d2lsZCUyMGJlZSUyMGNvbnNlcnZhdGlvbg==">wild bee conservation <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section">2026</a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2025</a></li>
+  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2">2024</a></li>
+  <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3">2023</a></li>
+  <li><a href="#section-4" id="toc-section-4" class="nav-link" data-scroll-target="#section-4">2022</a></li>
+  <li><a href="#section-5" id="toc-section-5" class="nav-link" data-scroll-target="#section-5">2021</a></li>
+  <li><a href="#section-6" id="toc-section-6" class="nav-link" data-scroll-target="#section-6">2020</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -246,18 +433,93 @@ window.Quarto = {
 </header>
 
 
-<div id="publications">
-
+<div class="research-callout1">
+<p>Below you’ll find details on the the lab’s publications. In full details, you’ll find the abstract, main figures, and links to data and code (as well as the full PDF). Please also check Jeremy’s <a href="https://scholar.google.com/citations?user=yU1oFwgAAAAJ&amp;hl=en">Google Scholar</a> for the most up-to-date compilation of our work.</p>
 </div>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
+<p><br></p>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section">2026</h2>
+<div id="listing-pubs-2026" class="quarto-listing quarto-listing-container-custom">
 <div class="research project-list">
 <ul class="list">
     
-        <li class="project" data-index="0" data-categories="YWdyb2Vjb3N5c3RlbSUyQ2J1bWJsZSUyMGJlZSUyQ2luc2VjdCUyMGZvcmFnaW5nJTJDcmVzb3VyY2UlMjB1c2U=" data-listing-date-sort="1739512800000" data-listing-file-modified-sort="1748526685764" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="426">
+        <li class="project" data-index="0" data-categories="Y2FtZXJhJTIwdHJhcCUyQ3BvbGxpbmF0b3IlMkNkaWdpdGFsJTIwZW50b21vbG9neQ==" data-listing-date-sort="1739512800000" data-listing-file-modified-sort="1788972733656" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="533">
+            <div class="project-content listing-pub-info">
+                <p>
+Smith, M. A. ‐Y. et al. AutoPollS: A tool for automated monitoring of pollinators using deep learning. <em>Methods in Ecology and Evolution</em> 17, 1743–1753. 2026, doi: <a href="https://doi.org/10.1111/2041-210x.70304"><code>10.1111/2041-210x.70304</code></a></p>
+            </div>
+
+            
+            <div class="project-categories">
+                
+                    <div class="project-category"><a href="#category=camera trap">
+                            camera trap
+                        </a></div>
+                    
+                    <div class="project-category"><a href="#category=pollinator">
+                            pollinator
+                        </a></div>
+                    
+                    <div class="project-category"><a href="#category=digital entomology">
+                            digital entomology
+                        </a></div>
+                    
+            </div>
+            
+
+            
+            
+            
+            <div class="project-details-listing">
+                <ul class="project-links">
+                    <li class="project-link details">
+                        <a href="./publications/2026/smith-methods-ecology-evo-2026/index.html" class="listing-name">
+                            <i class="fa-solid fa-circle-info"></i> Full details »
+                        </a>
+                    </li>
+                    
+                        
+                    <li class="project-link">
+                        
+                        <a href="./publications/2026/smith-methods-ecology-evo-2026/mee-2026.pdf">
+                        
+                            <i class="fa-solid fa-file-pdf"></i> Final version
+                        </a>
+                    </li>
+                        
+                    <li class="project-link">
+                        
+                        <a href="https://doi.org/10.5281/zenodo.19360800">
+                        
+                            <i class="fa-solid fa-code"></i> Code
+                        </a>
+                    </li>
+                        
+                    <li class="project-link">
+                        
+                        <a href="https://github.com/crall-lab/autopolls">
+                        
+                            <i class="fa-brands fa-github"></i> GitHub
+                        </a>
+                    </li>
+                        
+                    
+                </ul>
+            </div>
+        </li>
+        
+</ul>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">2025</h2>
+<div id="listing-pubs-2025" class="quarto-listing quarto-listing-container-custom">
+<div class="research project-list">
+<ul class="list">
+    
+        <li class="project" data-index="0" data-categories="YWdyb2Vjb3N5c3RlbSUyQ2J1bWJsZSUyMGJlZSUyQ2luc2VjdCUyMGZvcmFnaW5nJTJDcmVzb3VyY2UlMjB1c2U=" data-listing-date-sort="1739512800000" data-listing-file-modified-sort="1788971742075" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="426">
             <div class="project-content listing-pub-info">
                 <p>Jeremy Hemberger and Neal Williams, “Predicting landscape‐scale native bumble bee habitat use over space, time, and forage availability” <em>Ecology</em> 2025, doi: <a href="https://doi.org/10.1002/ecy.70008"><code>10.1002/ecy.70008</code></a></p>
             </div>
@@ -290,7 +552,7 @@ window.Quarto = {
             <div class="project-details-listing">
                 <ul class="project-links">
                     <li class="project-link details">
-                        <a href="./publications/hemberger-ecology-2025/index.html" class="listing-name">
+                        <a href="./publications/2025/hemberger-ecology-2025/index.html" class="listing-name">
                             <i class="fa-solid fa-circle-info"></i> Full details »
                         </a>
                     </li>
@@ -298,7 +560,7 @@ window.Quarto = {
                         
                     <li class="project-link">
                         
-                        <a href="./publications/hemberger-ecology-2025/ecology-2025.pdf">
+                        <a href="./publications/2025/hemberger-ecology-2025/ecology-2025.pdf">
                         
                             <i class="fa-solid fa-file-pdf"></i> Final version
                         </a>
@@ -317,7 +579,18 @@ window.Quarto = {
             </div>
         </li>
         
-        <li class="project" data-index="1" data-categories="YnVtYmxlJTIwYmVlJTJDY2xpbWF0ZSUyMGNoYW5nZSUyQ2NvbW11bml0eSUyMGNvbXBvc2l0aW9uJTJDY29tbXVuaXR5JTIwdGVtcGVyYXR1cmUlMjBpbmRleCUyQ2Vjb2luZm9ybWF0aWNz" data-listing-date-sort="1723525200000" data-listing-file-modified-sort="1748526685755" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="276">
+</ul>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2024</h2>
+<div id="listing-pubs-2024" class="quarto-listing quarto-listing-container-custom">
+<div class="research project-list">
+<ul class="list">
+    
+        <li class="project" data-index="0" data-categories="YnVtYmxlJTIwYmVlJTJDY2xpbWF0ZSUyMGNoYW5nZSUyQ2NvbW11bml0eSUyMGNvbXBvc2l0aW9uJTJDY29tbXVuaXR5JTIwdGVtcGVyYXR1cmUlMjBpbmRleCUyQ2Vjb2luZm9ybWF0aWNz" data-listing-date-sort="1723525200000" data-listing-file-modified-sort="1748526685755" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="276">
             <div class="project-content listing-pub-info">
                 <p>Jeremy Hemberger and Neal Williams, “Warming summer temperatures are rapidly restructuring North American bumble bee communities” <em>Ecology Letters</em> 2024, doi: <a href="https://onlinelibrary.wiley.com/doi/10.1111/ele.14492"><code>10.1111/ele.14492</code></a></p>
             </div>
@@ -354,7 +627,7 @@ window.Quarto = {
             <div class="project-details-listing">
                 <ul class="project-links">
                     <li class="project-link details">
-                        <a href="./publications/hemberger-ecoletters-2024/index.html" class="listing-name">
+                        <a href="./publications/2024/hemberger-ecoletters-2024/index.html" class="listing-name">
                             <i class="fa-solid fa-circle-info"></i> Full details »
                         </a>
                     </li>
@@ -370,7 +643,7 @@ window.Quarto = {
                         
                     <li class="project-link">
                         
-                        <a href="./publications/hemberger-ecoletters-2024/ecoletts-2024.pdf">
+                        <a href="./publications/2024/hemberger-ecoletters-2024/ecoletts-2024.pdf">
                         
                             <i class="fa-solid fa-file-pdf"></i> Final version
                         </a>
@@ -389,71 +662,18 @@ window.Quarto = {
             </div>
         </li>
         
-        <li class="project" data-index="2" data-categories="cmVzb3VyY2UlMjBjb250aW51aXR5JTJDZmxvcmFsJTIwcmVzb3VyY2VzJTJDcG9sbGluYXRpb24lMjBzZXJ2aWNlcyUyQ2Fncm9lY29zeXN0ZW0lMkNlY29zeXN0ZW0lMjBzZXJ2aWNlcw==" data-listing-date-sort="1687150800000" data-listing-file-modified-sort="1748526685714" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="324">
-            <div class="project-content listing-pub-info">
-                <p>Jeremy Hemberger, Grant Witynski, Claudio Gratton, “Floral resource continuity boosts bumble bee colony performance relative to variable floral resources” <em>Ecological Entomology</em> 2022, doi: <a href="https://doi.org/10.1111/een.13154"><code>10.1111/een.13154</code></a></p>
-            </div>
-
-            
-            <div class="project-categories">
-                
-                    <div class="project-category"><a href="#category=resource continuity">
-                            resource continuity
-                        </a></div>
-                    
-                    <div class="project-category"><a href="#category=floral resources">
-                            floral resources
-                        </a></div>
-                    
-                    <div class="project-category"><a href="#category=pollination services">
-                            pollination services
-                        </a></div>
-                    
-                    <div class="project-category"><a href="#category=agroecosystem">
-                            agroecosystem
-                        </a></div>
-                    
-                    <div class="project-category"><a href="#category=ecosystem services">
-                            ecosystem services
-                        </a></div>
-                    
-            </div>
-            
-
-            
-            
-            
-            <div class="project-details-listing">
-                <ul class="project-links">
-                    <li class="project-link details">
-                        <a href="./publications/hemberger-ecoento-2022/index.html" class="listing-name">
-                            <i class="fa-solid fa-circle-info"></i> Full details »
-                        </a>
-                    </li>
-                    
-                        
-                    <li class="project-link">
-                        
-                        <a href="./publications/hemberger-ecoento-2022/ecoento-2022.pdf">
-                        
-                            <i class="fa-solid fa-file-pdf"></i> Final version
-                        </a>
-                    </li>
-                        
-                    <li class="project-link">
-                        
-                        <a href="https://figshare.com/s/1c72e2d937cbd9efc8fa?file=41408409">
-                        
-                            <i class="fa-solid fa-code"></i> Code
-                        </a>
-                    </li>
-                        
-                    
-                </ul>
-            </div>
-        </li>
-        
-        <li class="project" data-index="3" data-categories="cmVzb3VyY2UlMjBjb250aW51aXR5JTJDZmxvcmFsJTIwcmVzb3VyY2VzJTJDcG9sbGluYXRpb24lMjBzZXJ2aWNlcyUyQ2Fncm9lY29zeXN0ZW0lMkNlY29zeXN0ZW0lMjBzZXJ2aWNlcw==" data-listing-date-sort="1687150800000" data-listing-file-modified-sort="1748526685769" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="510">
+</ul>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">2023</h2>
+<div id="listing-pubs-2023" class="quarto-listing quarto-listing-container-custom">
+<div class="research project-list">
+<ul class="list">
+    
+        <li class="project" data-index="0" data-categories="cmVzb3VyY2UlMjBjb250aW51aXR5JTJDZmxvcmFsJTIwcmVzb3VyY2VzJTJDcG9sbGluYXRpb24lMjBzZXJ2aWNlcyUyQ2Fncm9lY29zeXN0ZW0lMkNlY29zeXN0ZW0lMjBzZXJ2aWNlcw==" data-listing-date-sort="1687150800000" data-listing-file-modified-sort="1748526685769" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="510">
             <div class="project-content listing-pub-info">
                 <p>Jeremy Hemberger, Claudio Gratton, “Floral resource discontinuity contributes to spatial mismatch between pollinator supply and pollination demand in a pollinator-dependent agricultural landscapes” <em>Landscape Ecology</em> 2023, doi: <a href="https://doi.org/10.1007/s10980-023-01707-w"><code>10.1007/s10980-023-01707-w</code></a></p>
             </div>
@@ -490,7 +710,7 @@ window.Quarto = {
             <div class="project-details-listing">
                 <ul class="project-links">
                     <li class="project-link details">
-                        <a href="./publications/hemberger-landeco-2023/index.html" class="listing-name">
+                        <a href="./publications/2023/hemberger-landeco-2023/index.html" class="listing-name">
                             <i class="fa-solid fa-circle-info"></i> Full details »
                         </a>
                     </li>
@@ -498,7 +718,7 @@ window.Quarto = {
                         
                     <li class="project-link">
                         
-                        <a href="./publications/hemberger-landeco-2023/landeco-2023.pdf">
+                        <a href="./publications/2023/hemberger-landeco-2023/landeco-2023.pdf">
                         
                             <i class="fa-solid fa-file-pdf"></i> Final version
                         </a>
@@ -517,7 +737,7 @@ window.Quarto = {
             </div>
         </li>
         
-        <li class="project" data-index="4" data-categories="YnVtYmxlJTIwYmVlJTJDZmxvcmFsJTIwcmVzb3VyY2VzJTJDcmVzb3VyY2UlMjBjb250aW51aXR5JTJDcmVzb3VyY2UlMjBkeW5hbWljcyUyQ3dpbGQlMjBiZWUlMjBjb25zZXJ2YXRpb24=" data-listing-date-sort="1669615200000" data-listing-file-modified-sort="1783541672405" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="397">
+        <li class="project" data-index="1" data-categories="YnVtYmxlJTIwYmVlJTJDZmxvcmFsJTIwcmVzb3VyY2VzJTJDcmVzb3VyY2UlMjBjb250aW51aXR5JTJDcmVzb3VyY2UlMjBkeW5hbWljcyUyQ3dpbGQlMjBiZWUlMjBjb25zZXJ2YXRpb24=" data-listing-date-sort="1669615200000" data-listing-file-modified-sort="1788971522311" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="397">
             <div class="project-content listing-pub-info">
                 <p>Jeremy Hemberger, Olivia Bernauer, Hannah Gaines-Day, Claudio Gratton, “Landscape‐scale floral resource discontinuity decreases bumble bee occurrence and alters community composition” <em>Ecological Applications</em> 2023, doi: <a href="https://doi.org/10.1002/eap.2907"><code>10.1002/eap.2907</code></a></p>
             </div>
@@ -554,7 +774,7 @@ window.Quarto = {
             <div class="project-details-listing">
                 <ul class="project-links">
                     <li class="project-link details">
-                        <a href="./publications/hemberger-ecoapps-2023/index.html" class="listing-name">
+                        <a href="./publications/2023/hemberger-ecoapps-2023/index.html" class="listing-name">
                             <i class="fa-solid fa-circle-info"></i> Full details »
                         </a>
                     </li>
@@ -562,7 +782,7 @@ window.Quarto = {
                         
                     <li class="project-link">
                         
-                        <a href="./publications/hemberger-ecoapps-2023/ecoapps-2023.pdf">
+                        <a href="./publications/2023/hemberger-ecoapps-2023/ecoapps-2023.pdf">
                         
                             <i class="fa-solid fa-file-pdf"></i> Final version
                         </a>
@@ -581,7 +801,7 @@ window.Quarto = {
             </div>
         </li>
         
-        <li class="project" data-index="5" data-categories="YnVtYmxlYmVlJTJDY2xpbWF0ZSUyMGNoYW5nZSUyQ2V4dHJlbWUlMjBoZWF0JTJDZm9yYWdpbmclMkNnbG9iYWwlMjBjaGFuZ2UlMkNoZWF0JTIwd2F2ZSUyQ3BsYW50JUUyJTgwJTkzcG9sbGluYXRvciUyMGludGVyYWN0aW9u" data-listing-date-sort="1669615200000" data-listing-file-modified-sort="1748526685768" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="248">
+        <li class="project" data-index="2" data-categories="YnVtYmxlYmVlJTJDY2xpbWF0ZSUyMGNoYW5nZSUyQ2V4dHJlbWUlMjBoZWF0JTJDZm9yYWdpbmclMkNnbG9iYWwlMjBjaGFuZ2UlMkNoZWF0JTIwd2F2ZSUyQ3BsYW50JUUyJTgwJTkzcG9sbGluYXRvciUyMGludGVyYWN0aW9u" data-listing-date-sort="1669615200000" data-listing-file-modified-sort="1788971585165" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="247">
             <div class="project-content listing-pub-info">
                 <p>Jeremy Hemberger, Nick Rosenberger, Neal Williams, “Experimental heatwaves disrupt bumblebee foraging through direct heat effects and reduced nectar production” <em>Functional Ecology</em> 2023, doi: <a href="https://doi.org/10.1111/1365-2435.14241"><code>10.1111/1365-2435.14241</code></a></p>
             </div>
@@ -626,7 +846,7 @@ window.Quarto = {
             <div class="project-details-listing">
                 <ul class="project-links">
                     <li class="project-link details">
-                        <a href="./publications/hemberger-funceco-2023/index.html" class="listing-name">
+                        <a href="./publications/2023/hemberger-funceco-2023/index.html" class="listing-name">
                             <i class="fa-solid fa-circle-info"></i> Full details »
                         </a>
                     </li>
@@ -634,7 +854,7 @@ window.Quarto = {
                         
                     <li class="project-link">
                         
-                        <a href="./publications/hemberger-funceco-2023/funceco-2023.pdf">
+                        <a href="./publications/2023/hemberger-funceco-2023/funceco-2023.pdf">
                         
                             <i class="fa-solid fa-file-pdf"></i> Final version
                         </a>
@@ -653,7 +873,93 @@ window.Quarto = {
             </div>
         </li>
         
-        <li class="project" data-index="6" data-categories="YWdyaWN1bHR1cmFsJTIwaW50ZW5zaWZpY2F0aW9uJTJDYm9tYnVzJTJDY3JvcCUyMGRpdmVyc2l0eSUyQ2Vjb2luZm9ybWF0aWNz" data-listing-date-sort="1619413200000" data-listing-file-modified-sort="1748526685721" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="488">
+</ul>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">2022</h2>
+<div id="listing-pubs-2022" class="quarto-listing quarto-listing-container-custom">
+<div class="research project-list">
+<ul class="list">
+    
+        <li class="project" data-index="0" data-categories="cmVzb3VyY2UlMjBjb250aW51aXR5JTJDZmxvcmFsJTIwcmVzb3VyY2VzJTJDcG9sbGluYXRpb24lMjBzZXJ2aWNlcyUyQ2Fncm9lY29zeXN0ZW0lMkNlY29zeXN0ZW0lMjBzZXJ2aWNlcw==" data-listing-date-sort="1687150800000" data-listing-file-modified-sort="1748526685714" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="324">
+            <div class="project-content listing-pub-info">
+                <p>Jeremy Hemberger, Grant Witynski, Claudio Gratton, “Floral resource continuity boosts bumble bee colony performance relative to variable floral resources” <em>Ecological Entomology</em> 2022, doi: <a href="https://doi.org/10.1111/een.13154"><code>10.1111/een.13154</code></a></p>
+            </div>
+
+            
+            <div class="project-categories">
+                
+                    <div class="project-category"><a href="#category=resource continuity">
+                            resource continuity
+                        </a></div>
+                    
+                    <div class="project-category"><a href="#category=floral resources">
+                            floral resources
+                        </a></div>
+                    
+                    <div class="project-category"><a href="#category=pollination services">
+                            pollination services
+                        </a></div>
+                    
+                    <div class="project-category"><a href="#category=agroecosystem">
+                            agroecosystem
+                        </a></div>
+                    
+                    <div class="project-category"><a href="#category=ecosystem services">
+                            ecosystem services
+                        </a></div>
+                    
+            </div>
+            
+
+            
+            
+            
+            <div class="project-details-listing">
+                <ul class="project-links">
+                    <li class="project-link details">
+                        <a href="./publications/2022/hemberger-ecoento-2022/index.html" class="listing-name">
+                            <i class="fa-solid fa-circle-info"></i> Full details »
+                        </a>
+                    </li>
+                    
+                        
+                    <li class="project-link">
+                        
+                        <a href="./publications/2022/hemberger-ecoento-2022/ecoento-2022.pdf">
+                        
+                            <i class="fa-solid fa-file-pdf"></i> Final version
+                        </a>
+                    </li>
+                        
+                    <li class="project-link">
+                        
+                        <a href="https://figshare.com/s/1c72e2d937cbd9efc8fa?file=41408409">
+                        
+                            <i class="fa-solid fa-code"></i> Code
+                        </a>
+                    </li>
+                        
+                    
+                </ul>
+            </div>
+        </li>
+        
+</ul>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">2021</h2>
+<div id="listing-pubs-2021" class="quarto-listing quarto-listing-container-custom">
+<div class="research project-list">
+<ul class="list">
+    
+        <li class="project" data-index="0" data-categories="YWdyaWN1bHR1cmFsJTIwaW50ZW5zaWZpY2F0aW9uJTJDYm9tYnVzJTJDY3JvcCUyMGRpdmVyc2l0eSUyQ2Vjb2luZm9ybWF0aWNz" data-listing-date-sort="1619413200000" data-listing-file-modified-sort="1748526685721" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="488">
             <div class="project-content listing-pub-info">
                 <p>Jeremy Hemberger, Michael Crossley, Claudio Gratton, “Historical decrease in agricultural landscape diversity is associated with shifts in bumble bee species occurrence” <em>Ecology Letters</em> 2021, doi: <a href="https://doi.org/10.1111/ele.13786"><code>10.1111/ele.14492</code></a></p>
             </div>
@@ -686,7 +992,7 @@ window.Quarto = {
             <div class="project-details-listing">
                 <ul class="project-links">
                     <li class="project-link details">
-                        <a href="./publications/hemberger-ecoletters-2021/index.html" class="listing-name">
+                        <a href="./publications/2021/hemberger-ecoletters-2021/index.html" class="listing-name">
                             <i class="fa-solid fa-circle-info"></i> Full details »
                         </a>
                     </li>
@@ -694,7 +1000,7 @@ window.Quarto = {
                         
                     <li class="project-link">
                         
-                        <a href="./publications/hemberger-ecoletters-2021/ele.13786.pdf">
+                        <a href="./publications/2021/hemberger-ecoletters-2021/ele.13786.pdf">
                         
                             <i class="fa-solid fa-file-pdf"></i> Final version
                         </a>
@@ -713,7 +1019,108 @@ window.Quarto = {
             </div>
         </li>
         
-        <li class="project" data-index="7" data-categories="YnVtYmxlJTIwYmVlJTJDdGVtcG9yYWwlMjB2YXJpYWJpbGl0eSUyQ3Jlc291cmNlcyUyQ2NvbG9ueSUyMGdyb3d0aA==" data-listing-date-sort="1587963600000" data-listing-file-modified-sort="1783541672405" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="402">
+</ul>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">2020</h2>
+<div id="listing-pubs-2020" class="quarto-listing quarto-listing-container-custom">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-pubs-2020-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-pubs-2020'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-project" data-direction="asc">
+        project
+      </option>
+      <option value="listing-website" data-direction="asc">
+        website
+      </option>
+      <option value="listing-format" data-direction="asc">
+        format
+      </option>
+      <option value="listing-editor" data-direction="asc">
+        editor
+      </option>
+      <option value="listing-engines" data-direction="asc">
+        engines
+      </option>
+      <option value="listing-language" data-direction="asc">
+        language
+      </option>
+      <option value="listing-freeze" data-direction="asc">
+        freeze
+      </option>
+      <option value="listing-title-block-banner" data-direction="asc">
+        title-block-banner
+      </option>
+      <option value="listing-title" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+      <option value="listing-categories" data-direction="asc">
+        Categories
+      </option>
+      <option value="listing-pub-info" data-direction="asc">
+        pub-info
+      </option>
+      <option value="listing-doi" data-direction="asc">
+        doi
+      </option>
+      <option value="listing-path" data-direction="asc">
+        path
+      </option>
+      <option value="listing-outputHref" data-direction="asc">
+        outputHref
+      </option>
+      <option value="listing-date-modified-sort" data-direction="asc">
+        Modified - Oldest
+      </option>
+      <option value="listing-date-modified-sort" data-direction="desc">
+        Modified - Newest
+      </option>
+      <option value="listing-description" data-direction="asc">
+        Description
+      </option>
+      <option value="listing-filename" data-direction="asc">
+        File Name
+      </option>
+      <option value="listing-file-modified-sort" data-direction="asc">
+        Modified - Oldest
+      </option>
+      <option value="listing-file-modified-sort" data-direction="desc">
+        Modified - Newest
+      </option>
+      <option value="listing-reading-time-sort" data-direction="asc">
+        Reading Time (Low to High)
+      </option>
+      <option value="listing-reading-time-sort" data-direction="desc">
+        Reading Time (High to Low)
+      </option>
+      <option value="listing-word-count-sort" data-direction="asc">
+        Word Count (Low to High)
+      </option>
+      <option value="listing-word-count-sort" data-direction="desc">
+        Word Count (High to Low)
+      </option>
+    </select>
+  </div>
+</div>
+<div class="research project-list">
+<ul class="list">
+    
+        <li class="project" data-index="0" data-categories="YnVtYmxlJTIwYmVlJTJDdGVtcG9yYWwlMjB2YXJpYWJpbGl0eSUyQ3Jlc291cmNlcyUyQ2NvbG9ueSUyMGdyb3d0aA==" data-listing-date-sort="1587963600000" data-listing-file-modified-sort="1783541672405" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="402">
             <div class="project-content listing-pub-info">
                 <p>Jeremy Hemberger, Agathe Frappa, Grant Witynski, Claudio Gratton, “Saved by the pulse? Separating the effects of total and temporal food abundance on the growth and reproduction of bumble bee microcolonies” <em>Basic and Applied Ecology</em> 2020, doi: <a href="https://doi.org/10.1016/j.baae.2020.04.004" <code="">10.1016/j.baae.2020.04.004</a></p>
             </div>
@@ -746,7 +1153,7 @@ window.Quarto = {
             <div class="project-details-listing">
                 <ul class="project-links">
                     <li class="project-link details">
-                        <a href="./publications/hemberger-basapp-2020/index.html" class="listing-name">
+                        <a href="./publications/2020/hemberger-basapp-2020/index.html" class="listing-name">
                             <i class="fa-solid fa-circle-info"></i> Full details »
                         </a>
                     </li>
@@ -754,7 +1161,7 @@ window.Quarto = {
                         
                     <li class="project-link">
                         
-                        <a href="./publications/hemberger-basapp-2020/basapp-2020.pdf">
+                        <a href="./publications/2020/hemberger-basapp-2020/basapp-2020.pdf">
                         
                             <i class="fa-solid fa-file-pdf"></i> Final version
                         </a>
@@ -776,7 +1183,13 @@ window.Quarto = {
 </ul>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</div>
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -828,13 +1241,14 @@ window.Quarto = {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

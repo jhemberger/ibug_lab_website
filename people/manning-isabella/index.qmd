@@ -1,0 +1,43 @@
+---
+title: Isabella Manning
+last: Manning
+first: Isabella
+people_group: "gradstudent"
+email: "manni537@umn.edu"
+# education:
+#  - Ph.D. Entomology | University of Wisconsin-Madison | 2020 <br> B.S. Biology w/evolution emphasis | University of Wisconsin-Madison | 2012
+subtitle: "PhD Student"
+description: ""
+# project: "dmref"
+affiliation: University of Minnesota
+image: im-headshot.jpg
+page-layout: full
+about: 
+  id: about
+  template: trestles
+  image-shape: rounded
+  image: im-headshot.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:manni537@umn.edu
+    # - text: Google Scholar
+    #   icon: mortarboard 
+    #   href: https://scholar.google.com/citations?user=54mZFJAAAAAJ&hl=en
+    # - icon: github
+    #   text: GitHub 
+    #   href: https://github.com/jhemberger
+    # - text: CV
+    #   href: https://www.dropbox.com/scl/fi/tlnihf3uocmbhm23tsv2m/hemberger-cv-2025.pdf?rlkey=cxufahm3l7ci59p4emjzqwon7&st=4mlanu9d&dl=0
+    #   icon: file-pdf
+---
+
+::: {#about}
+Words here
+
+## Education
+
+**BS Ecology and Evolutionary Biology** \| *University of Colorado Boulder* \| 2024
+
+<!--{{< meta education >}}-->
+:::

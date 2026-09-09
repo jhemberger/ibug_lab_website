@@ -1,0 +1,79 @@
+---
+title: "Predicting landscape‐scale native bumble bee habitat use over space, time, and forage availability"
+date: 2025-02-14
+author:
+  - name: Matt A.-Y. Smith
+    affiliation: University of Wisconsin
+  - name: Olivia Bernauer
+    affiliation: University of Wisconsin
+  - name: Grace Melone
+    affiliation: University of Wisconsin
+  - name: Brett Graham
+    affiliation: Harvard University
+  - name: Julia Weissing
+    affiliation: University of Wisconsin
+  - name: Rafael Salas
+    affiliation: University of Wisconsin
+  - name: Jeremy Hemberger
+    url: https://jhemberger.github.io
+    orcid: 0000-0003-3648-4724
+    affiliation: University of Minnesota
+  - name: Abhishek Bhattacharyya
+    affiliation: University of Wisconsin
+  - name: Acacia T.S. Tang
+    affiliation: University of Wisconsin
+  - name: Elena Rojas
+    affiliation: University of Wisconsin
+  - name: Joshua San Miguel
+    affiliation: University of Wisconsin
+  - name: Brian J. Spiesman
+    affiliation: Kansas State University
+  - name: Claudio Gratton
+    affiliation: University of Wisconsin
+  - name: James Crall
+    affiliation: University of Wisconsin
+categories:
+ - camera trap
+ - pollinator
+ - digital entomology
+pub-info:
+  reference: >-
+    
+    Smith, M. A. ‐Y. et al. AutoPollS: A tool for automated monitoring of pollinators using deep learning. <em>Methods in Ecology and Evolution</em> 17, 1743–1753. 2026, doi: <a href="https://doi.org/10.1111/2041-210x.70304"><code>10.1111/2041-210x.70304</code></a>
+
+  links:
+    - name: Final version
+      url: mee-2026.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Code
+      url: https://doi.org/10.5281/zenodo.19360800
+      icon: fa-solid fa-code
+    - name: GitHub
+      url: https://github.com/crall-lab/autopolls
+      icon: fa-brands fa-github
+doi: 10.1111/2041-210x.70304
+---
+
+## Abstract
+Deep learning and computer vision hold enormous potential for automated monitoring of biodiversity, including pollinators and other insects. Efficient, scalable monitoring of insect pollinators is crucial given pollinators' role in supporting biodiversity and agricultural productivity amidst declining pollinator populations. However, several practical challenges limit the broad adoption of automated monitoring techniques. Existing approaches often depend on passive image capture (e.g. timelapse) that can generate impractically large datasets (especially for large‐scale monitoring) and rely on application‐specific models that may not generalize well to novel contexts. This creates barriers to broader use in ecological applications where limited training data exist and underscores the need for flexible, reliable automated monitoring systems. Here we introduce AutoPollS (Autonomous Pollinator Sampler), an open‐source system for automated, image‐based monitoring of flower‐visiting insects. AutoPollS uses multi‐camera monitoring using lightweight deep learning models in the field (to reduce data storage and processing) followed by higher performance detection and classification models offline. AutoPollS uses a modular camera system that can be adapted to different plant–pollinator communities. We validate AutoPollS in two agroecosystems (sunflowers and apple orchards) and a multi‐species alpine meadow. In all three systems, AutoPollS provided robust in‐field monitoring using broadly trained models fine‐tuned with only limited application‐specific data, including high detection and species classification accuracy (>95%) in honey bees (Apis spp.) and bumble bees (Bombus spp.). However, models did show reduced performance in real‐world applications compared to training datasets—likely associated with image quality and curation—highlighting the challenges of monitoring in real‐world ecological conditions. Overall, our results demonstrate the utility of our approach in diverse ecological applications, including non‐lethal monitoring of endangered species and characterizing pollinator responses to dynamic environmental conditions. Finally, we highlight the potential of this approach to bridge practical applications and model development by facilitating broader adoption. This could support generation of larger and more diverse datasets to improve model performance.
+
+## Important figures
+
+![<strong>Figure 1:</strong>  The AutoPollS system. (a) a schematic of the AutoPollS unit deployed to monitor apple blossoms, showing cameras and operative body temperature models (clay sphere and thermocouple). (b) AutoPollS unit components and integration (see Table S1 for details) (c) AutoPollS workflow from monitoring in the field to offline detection and classification. The AutoPollS system consists of four main steps: (1) image acquisition, (2) on‐device filtering and then offline (3) object detection (YOLOv11), and (4) image classification (EfficientNetV2). (d) Example images captured by AutoPollS, with bounding boxes and inferred taxonomic classification labels displayed.](fig1.jpg){width="75%"}
+
+## Citation
+
+``` bibtex
+@article{smith2026autopolls:-98f, 
+  year     = {2026}, 
+  title    = {{AutoPollS}: A tool for automated monitoring of pollinators using deep learning}, 
+  author   = {Smith, Matthew A.‐Y. and Bernauer, Olivia M. and Melone, Grace and Graham, Brett and Wiessing, Julia and Salas, Rafael and Hemberger, Jeremy and Bhattacharyya, Abhishek and Tang, Acacia T. S. and Rojas, Elena and Miguel, Joshua San and Spiesman, Brian J. and Gratton, Claudio and Crall, James D.}, 
+  journal  = {Methods in Ecology and Evolution}, 
+  issn     = {2041-210X}, 
+  doi      = {10.1111/2041-210x.70304},
+  pages    = {1743--1753}, 
+  number   = {6}, 
+  volume   = {17}
+}
+```

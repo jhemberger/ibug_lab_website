@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Opportunities – UMN iBUG Lab</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -37,10 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dfcb7fb6da2142ee33e6b7f67cb87998.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b72fb48591034a4134162c4858d14484.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
@@ -95,7 +101,8 @@ gtag('config', 'G-9QW2N0QB7G', { 'anonymize_ip': true});
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./media/umn-logo-hex@3x.png" alt="" class="navbar-logo">
+    <img src="./media/umn-logo-hex@3x.png" alt="" class="navbar-logo light-content">
+    <img src="./media/umn-logo-hex@3x.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -131,7 +138,7 @@ gtag('config', 'G-9QW2N0QB7G', { 'anonymize_ip': true});
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./media/lab-manual_2025-02-28.pdf" target="_blank"> <i class="bi bi-file-pdf" role="img">
+    <a class="nav-link" href="./media/lab-manual_2026-09-08.pdf" target="_blank"> <i class="bi bi-file-pdf" role="img">
 </i> 
 <span class="menu-text">Lab Manual</span></a>
   </li>  
@@ -140,7 +147,7 @@ gtag('config', 'G-9QW2N0QB7G', { 'anonymize_ip': true});
 <span class="menu-text"><iconify-icon role="img" inline="" icon="fa6-brands:bluesky" style="font-size: 1.1em;" aria-label="Icon bluesky from fa6-brands Iconify.design set." title="Bluesky"></iconify-icon></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/jhemberger" target="_blank"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/ibug-lab" target="_blank"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -169,8 +176,10 @@ gtag('config', 'G-9QW2N0QB7G', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#current-openings" id="toc-current-openings" class="nav-link active" data-scroll-target="#current-openings">Current openings</a></li>
+  <li><a href="#current-openings" id="toc-current-openings" class="nav-link active" data-scroll-target="#current-openings">Current openings</a>
+  <ul class="collapse">
   <li><a href="#what-qualities-make-for-successful-students" id="toc-what-qualities-make-for-successful-students" class="nav-link" data-scroll-target="#what-qualities-make-for-successful-students">What qualities make for successful students?</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -199,9 +208,28 @@ gtag('config', 'G-9QW2N0QB7G', { 'anonymize_ip': true});
 <section id="current-openings" class="level2">
 <h2 class="anchored" data-anchor-id="current-openings">Current openings</h2>
 <p>We’re not currently recruiting students or postdocs for existing positions. However, if you are interested in collaborating on a project or proposal as a prospective student or postdoc, please reach out to me!</p>
-</section>
-<section id="what-qualities-make-for-successful-students" class="level2">
-<h2 class="anchored" data-anchor-id="what-qualities-make-for-successful-students">What qualities make for successful students?</h2>
+<!-- 
+:::{.hire-alert}
+###  Postdoctoral researcher
+The iBUG lab is recruiting a postdoctoral researcher for an NSF funded project (2 years of guaranteed funding) investigating emergent resilience mechanisms of wild bees to heat waves across scales of biological organization. Greenhouse and field work using *Osmia lignaria* in California in collaboration with Neal Williams (UC Davis) and Rachel Winfree (Rutgers). Hosted at UMN.
+
+[ Apply via UMN Jobs Portal](https://hr.myu.umn.edu/jobs){.btn .btn-primary role="button"}
+[ Read project summary](media/opportunities/nsf-summary.pdf){.btn .btn-primary role="button"}
+:::
+
+</br>
+
+:::{.hire-alert}
+###  Camera trap technician 
+The iBUG lab is recruiting a researcher to assist with insect camera trap development and data management. The position will involve designing, building, and maintaining the fleet of active research camera traps in addition to building data processing pipelines in coordination with collaborators at other institutions. 
+
+[Apply via UMN Jobs Portal](https://hr.myu.umn.edu/jobs){.btn .btn-primary role="button"}
+:::
+
+-->
+<p><br></p>
+<section id="what-qualities-make-for-successful-students" class="level3 research-callout1">
+<h3 class="anchored" data-anchor-id="what-qualities-make-for-successful-students">What qualities make for successful students?</h3>
 <p>When recruiting staff and students, I am hoping to build a collaborative partnership where we can learn and grow together as scientists. I’m looking for students broadly interested in insect ecology and global change who able to see the work they do, even if foundational, from an applied perspective. There are many attributes that will help motivate successful candidates including curiosity, creativity, problem solving capacity, good communication skills (broadly defined), self-motivation, a vision for how a graduate degree with help advance their career and personal goals, and a <em>genuine interest and enthusiasm for the scientific endeavor</em>. Academia can be a fickle, frustrating, and fraught experience. Science moves slow, there are perennial funding challenges, experiments rarely go as planned, and the list goes on. All of the challenges are, at least somewhat, balanced by the excitement and freedom to pursue the knowledge and questions that we find most fascinating. It’s important to remember that science is a team sport, but there is still a high-degree of intrinsic motivation required to persevere through its many challenges. It’s also important to know that no one arrives with all of the skills needed to succeed in grad school: they develop through time, effort, feedback, and having grace for yourself as a developing scientist.</p>
 <p>Take a look at this <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/bes2.1917">great article on applying to graduate school</a> for tips on preparing a successful application and determining whether a graduate degree is right for you.</p>
 <div class="quarto-layout-panel" data-layout="[1,1,1,1]">
@@ -220,6 +248,7 @@ gtag('config', 'G-9QW2N0QB7G', { 'anonymize_ip': true});
 </div>
 </div>
 </div>
+</section>
 
 
 </section>
@@ -276,13 +305,14 @@ gtag('config', 'G-9QW2N0QB7G', { 'anonymize_ip': true});
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

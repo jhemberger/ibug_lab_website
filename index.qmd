@@ -9,11 +9,11 @@ about:
   image-width: 55rem
   links:
     - icon: bluesky
-      text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}} Bluesky"
+      text: "Bluesky"
       href: https://bsky.app/profile/jhemberger.bsky.social
     - icon: github
       text: GitHub
-      href: https://github.com/jhemberger
+      href: https://github.com/ibuglab
     - icon: envelope
       text: Email
       href: mailto:jhemberg@umn.edu
@@ -31,7 +31,51 @@ about:
 </style>
 ```
 
+<p class="white-text">Welcome to the <strong>iBUG LAB</strong> in the <a data-original-href="https://entomology.umn.edu/" href="https://entomology.umn.edu/" class="white-text">University of Minnesota Department of Entomology</a>. We're a research group dedicated to understanding how insects are impacted by human changes to our environment. Our work focuses primarily on changes in land-use due to agriculture and shifts in climate and extreme weather in working landscapes using a variety of research approaches, but we specialize in using ecoinformatics and cross-scale experimental methods to examine insect responses from behaviors to communities. We work hard to find creative ways to apply our findings to develop targeted mitigation and conservation strategies to support insect biodiversity and the outsized ecological roles these small critters play in our landscapes.</p>
+
+<!-- 
+:::{.homepage-alert}
+:::{.grid}
+
+:::{.g-col-12 .g-col-md-2}
+:::
+
+:::{.g-col-12 .g-col-md-7 .text-start}
+### {{< fa user-plus size=1.0em >}} Now hiring a postdoctoral researcher 
+Starting in January 2027. Please see our <a data-original-href="https://jhemberger.github.io/ibug_lab_website/opportunities.html" href="https://jhemberger.github.io/ibug_lab_website/opportunities.html" class="white-text">opportunities</a> for details.
+:::
+
+:::{.g-col-12 .g-col-md-2 .d-flex .align-items-center}
+<a href="https://jhemberger.github.io/ibug_lab_website/opportunities.html" class="btn btn-primary-inv btn-lg" role="button">Apply Now</a>
+:::
+
+:::{.g-col-12 .g-col-md-1}
+:::
 
 
-<p class="white-text">Welcome to the <strong>iBUG LAB</strong> in the <a data-original-href="https://entomology.umn.edu/" href="https://entomology.umn.edu/" class="white-text">University of Minnesota Department of Entomology</a>. We're a research group dedicated to understanding how insects are impacted by human changes to our environment. Our work focuses primarily on changes in land-use due to agriculture and shifts in climate and extreme weather in working landscapes using a variety of research approaches, but we specialize in using ecoinformatics and cross-scale experimental methods to examine insect responses from behaviors to communities. We work hard to find creative ways to apply our findings to develop targeted mitigation and conservation strategies to support insect biodiversity and the outsized ecological roles these small critters play in our landscapes.
-</p>
+:::
+:::
+-
+
+:::{.homepage-alert}
+:::{.grid}
+
+:::{.g-col-12 .g-col-md-2}
+:::
+
+:::{.g-col-12 .g-col-md-7 .text-start}
+### {{< fa user-plus size=1.0em >}} Now hiring a postdoctoral researcher 
+Starting in March 2027. Please see our <a data-original-href="https://jhemberger.github.io/ibug_lab_website/opportunities.html" href="https://jhemberger.github.io/ibug_lab_website/opportunities.html" class="white-text">opportunities</a> for details.
+:::
+
+:::{.g-col-12 .g-col-md-2 .d-flex .align-items-center}
+<a href="https://jhemberger.github.io/ibug_lab_website/opportunities.html" class="btn btn-primary-inv btn-lg" role="button">Apply Now</a>
+:::
+
+:::{.g-col-12 .g-col-md-1}
+:::
+
+
+:::
+:::
+-->

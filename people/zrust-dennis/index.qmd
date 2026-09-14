@@ -2,7 +2,7 @@
 title: Dennis Zrust
 last: Zrust
 first: Dennis
-people_group: "undergrads"
+people_group: "undergrad"
 email: "zrust013@umn.edu"
 # education:
 #  - Ph.D. Entomology | University of Wisconsin-Madison | 2020 <br> B.S. Biology w/evolution emphasis | University of Wisconsin-Madison | 2012

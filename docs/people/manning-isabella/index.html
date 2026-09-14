@@ -2,23 +2,17 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Isabella Manning – UMN iBUG Lab</title>
 <style>
-/* Default styles provided by pandoc.
-** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-*/
+code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: 1.5em;}
-div.column{flex: auto;}
-@media screen {
-div.columns{gap: min(4vw, 1.5em);}
-div.column{overflow-x: auto;}
-}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -42,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-b72fb48591034a4134162c4858d14484.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-73b953cbdf953b70c0b4e6d9d37c087b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script src="../../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
@@ -97,8 +91,7 @@ gtag('config', 'G-9QW2N0QB7G', { 'anonymize_ip': true});
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../media/umn-logo-hex@3x.png" alt="" class="navbar-logo light-content">
-    <img src="../../media/umn-logo-hex@3x.png" alt="" class="navbar-logo dark-content">
+    <img src="../../media/umn-logo-hex@3x.png" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -176,7 +169,7 @@ gtag('config', 'G-9QW2N0QB7G', { 'anonymize_ip': true});
 
 <div class="quarto-about-trestles column-page">
   <div class="about-entity">
-    <img src="im-headshot.jpg" class="about-image
+    <img src="im-headshot.png" class="about-image
   rounded " style="width: 20em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -191,10 +184,19 @@ gtag('config', 'G-9QW2N0QB7G', { 'anonymize_ip': true});
     <i class="bi bi-envelope"></i>
      <span class="about-link-text">Email</span>
   </a>
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=VVg5oisAAAAJ" class="about-link" rel="" target="">
+    <i class="bi bi-mortarboard"></i>
+     <span class="about-link-text">Google Scholar</span>
+  </a>
+  <a href="https://www.isabella-manning.com/" class="about-link" rel="" target="">
+    <i class="bi bi-window"></i>
+     <span class="about-link-text">Website</span>
+  </a>
 </div>
   </div>
   <div class="about-contents"><div id="about">
-<p>Words here</p>
+<p>I am a PhD student interested in insect ecology and physiology, plant-pollinator interactions, and conservation. I have studied pollinator networks in the Colorado Rocky Mountains, wild bees in the prairies of Kansas and Missouri, and nocturnal wasps and bees in Panama. My research in the iBug Lab will explore how insects are responding to climate change and extreme heat events, using novel experimental and analytical tools to uncover ecological patterns.</p>
+<p>Beyond the lab and insect-snatching, I enjoy outdoor activities like hiking and camping. Indoors, you’ll find me playing video or board games, baking cozy treats, and watercolor painting. My cat Penny is my lab assistant and muse.</p>
 <section id="education" class="level2">
 <h2 data-anchor-id="education">Education</h2>
 <p><strong>BS Ecology and Evolutionary Biology</strong> | <em>University of Colorado Boulder</em> | 2024</p>
@@ -252,14 +254,13 @@ gtag('config', 'G-9QW2N0QB7G', { 'anonymize_ip': true});
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

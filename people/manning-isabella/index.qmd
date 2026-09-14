@@ -10,30 +10,32 @@ subtitle: "PhD Student"
 description: ""
 # project: "dmref"
 affiliation: University of Minnesota
-image: im-headshot.jpg
+image: im-headshot.png
 page-layout: full
 about: 
   id: about
   template: trestles
   image-shape: rounded
-  image: im-headshot.jpg
+  image: im-headshot.png
   links:
     - icon: envelope
       text: Email
       href: mailto:manni537@umn.edu
-    # - text: Google Scholar
-    #   icon: mortarboard 
-    #   href: https://scholar.google.com/citations?user=54mZFJAAAAAJ&hl=en
-    # - icon: github
-    #   text: GitHub 
-    #   href: https://github.com/jhemberger
+    - text: Google Scholar
+      icon: mortarboard 
+      href: https://scholar.google.com/citations?hl=en&user=VVg5oisAAAAJ
+    - icon: window
+      text: Website 
+      href: https://www.isabella-manning.com/
     # - text: CV
     #   href: https://www.dropbox.com/scl/fi/tlnihf3uocmbhm23tsv2m/hemberger-cv-2025.pdf?rlkey=cxufahm3l7ci59p4emjzqwon7&st=4mlanu9d&dl=0
     #   icon: file-pdf
 ---
 
 ::: {#about}
-Words here
+I am a PhD student interested in insect ecology and physiology, plant-pollinator interactions, and conservation. I have studied pollinator networks in the Colorado Rocky Mountains, wild bees in the prairies of Kansas and Missouri, and nocturnal wasps and bees in Panama. My research in the iBug Lab will explore how insects are responding to climate change and extreme heat events, using novel experimental and analytical tools to uncover ecological patterns. 
+
+Beyond the lab and insect-snatching, I enjoy outdoor activities like hiking and camping. Indoors, you'll find me playing video or board games, baking cozy treats, and watercolor painting. My cat Penny is my lab assistant and muse. 
 
 ## Education
 

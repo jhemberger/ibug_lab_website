@@ -32,7 +32,7 @@ listing:
     
   - id: undergrad
     include: 
-      people_group: "undergrads"
+      people_group: "undergrad"
     exclude:
       external: true
     template: ../html/people-box.ejs
@@ -93,10 +93,22 @@ We're a dedicated and diverse group working better understand insect responses t
 
 ## Undergraduate students
 
-::: {#undergrads}
+::: {#undergrad}
 :::
 
 ## Collaborators
 
 ::: {#collaborators}
 :::
+
+We also collaborate with a bunch of labs across the country -- check out their work!
+
+{{< fa bug >}} [**Williams Lab**](https://williamslab.ucdavis.edu/) University of California Davis
+
+{{< fa bug >}} [**Winfree Lab**](https://winfreelab.com/) Rutgers University
+
+{{< fa bug >}} [**Pollinator Ecology Lab (Brian Spiesman)**](https://pollinatorlab.com/) Kansas State University
+ 
+{{< fa bug >}} [**Gratton Lab**](https://gratton.entomology.wisc.edu/) University of Wisconsin-Madison
+
+{{< fa bug >}} [**Entomological Data Science Lab (Melissa Guzman)**](https://edslab.org/team/) Cornell University
